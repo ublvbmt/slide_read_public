@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:28.765Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-028",
+    "topicId": "topic-governance",
+    "sortOrder": 30,
+    "pageLabel": "30",
+    "title": "我會如何用AI",
+    "subtitle": "Case2:Canvas",
+    "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-027",
+      "title": "我會如何用AI",
+      "pageLabel": "29",
+      "path": "pages/slide-027.json"
+    },
+    "next": {
+      "id": "slide-029",
+      "title": "我會如何用AI",
+      "pageLabel": "31",
+      "path": "pages/slide-029.json"
+    }
+  }
+}
