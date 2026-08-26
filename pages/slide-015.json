@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:13.540Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-015",
+    "topicId": "topic-governance",
+    "sortOrder": 17,
+    "pageLabel": "17",
+    "title": "我們是掌握數據還是被數據掌握",
+    "subtitle": "Netflix",
+    "body": "如何精準投放，讓我們像獵物一樣被舒服的命中"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-014",
+      "title": "我們是掌握數據還是被數據掌握",
+      "pageLabel": "16",
+      "path": "pages/slide-014.json"
+    },
+    "next": {
+      "id": "slide-016",
+      "title": "掌握數據不是壞事",
+      "pageLabel": "18",
+      "path": "pages/slide-016.json"
+    }
+  }
+}
