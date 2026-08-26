@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:08.973Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-9a36957a-926f-4be6-90cc-a4941b160d91",
+    "topicId": "topic-governance",
+    "sortOrder": 13,
+    "pageLabel": "13",
+    "title": "新的簡報頁",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-013",
+      "title": "數據爆炸的時代",
+      "pageLabel": "12",
+      "path": "pages/slide-013.json"
+    },
+    "next": {
+      "id": "slide-e44b50d5-f80e-4e7c-9350-243001a6d266",
+      "title": "新的簡報頁",
+      "pageLabel": "14",
+      "path": "pages/slide-e44b50d5-f80e-4e7c-9350-243001a6d266.json"
+    }
+  }
+}
