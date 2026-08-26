@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:04.823Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 1,
+    "pageLabel": "1",
+    "title": "AI是如何訓練的",
+    "subtitle": "空間空量儲存",
+    "body": "每一個詞元(Token)都有一個對應的位置，越相近、越相關的位置就會越靠近。"
+  },
+  "navigation": {
+    "previous": null,
+    "next": {
+      "id": "slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f",
+      "title": "AI是如何運算的",
+      "pageLabel": "2",
+      "path": "pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json"
+    }
+  }
+}
