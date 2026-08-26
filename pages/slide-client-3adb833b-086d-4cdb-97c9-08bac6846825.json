@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:22.832Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-3adb833b-086d-4cdb-97c9-08bac6846825",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 17,
+    "pageLabel": "17",
+    "title": "AI會泡沫化嗎",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-client-9031b7d0-65f9-4872-a691-093eb1640fae",
+      "title": "全球模型排名",
+      "pageLabel": "16",
+      "path": "pages/slide-client-9031b7d0-65f9-4872-a691-093eb1640fae.json"
+    },
+    "next": {
+      "id": "slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d",
+      "title": "新的簡報頁",
+      "pageLabel": "18",
+      "path": "pages/slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d.json"
+    }
+  }
+}
