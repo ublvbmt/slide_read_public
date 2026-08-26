@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:05.628Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-011",
+    "topicId": "topic-governance",
+    "sortOrder": 10,
+    "pageLabel": "10",
+    "title": "優化治理維度",
+    "subtitle": "透明\n效率\n課責",
+    "body": "OpenData\n全線上服務\n(ask once)"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-009",
+      "title": "改善服務品質",
+      "pageLabel": "9",
+      "path": "pages/slide-009.json"
+    },
+    "next": {
+      "id": "slide-012",
+      "title": "促進公民參與",
+      "pageLabel": "11",
+      "path": "pages/slide-012.json"
+    }
+  }
+}
