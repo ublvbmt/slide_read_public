@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:23.016Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-023",
+    "topicId": "topic-governance",
+    "sortOrder": 25,
+    "pageLabel": "25",
+    "title": "數位包容",
+    "subtitle": "Left no one behind",
+    "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-022",
+      "title": "數位平權",
+      "pageLabel": "24",
+      "path": "pages/slide-022.json"
+    },
+    "next": {
+      "id": "slide-024",
+      "title": "智慧政府發展的近程",
+      "pageLabel": "26",
+      "path": "pages/slide-024.json"
+    }
+  }
+}
