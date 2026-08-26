@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:08.228Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 4,
+    "pageLabel": "4",
+    "title": "AI賺錢也燒錢",
+    "subtitle": "全球資本大量投入，量變帶來質變",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83",
+      "title": "你的AI競爭對手有多少?",
+      "pageLabel": "3",
+      "path": "pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json"
+    },
+    "next": {
+      "id": "slide-client-1697887a-3770-435d-8cf3-3216aaf2988d",
+      "title": "AI全面佔領科研領域",
+      "pageLabel": "5",
+      "path": "pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json"
+    }
+  }
+}
