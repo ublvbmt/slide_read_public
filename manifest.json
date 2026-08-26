@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:23:10.158Z",
+  "topicCount": 3,
+  "slideCount": 79,
+  "content": "content.json",
+  "topics": [
+    {
+      "id": "topic-governance",
+      "name": "智慧政府與數位治理",
+      "sortOrder": 1,
+      "slideCount": 34
+    },
+    {
+      "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+      "name": "智慧政府與數位治理（副本）",
+      "sortOrder": 2,
+      "slideCount": 27
+    },
+    {
+      "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+      "name": "AI原理趨勢與創新應用",
+      "sortOrder": 3,
+      "slideCount": 18
+    }
+  ]
+}
