@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:36.452Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-53114b03-3dda-44c0-924b-8b19c406c14b",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 3,
+    "pageLabel": "3",
+    "title": "ㄉ",
+    "subtitle": "",
+    "body": "WR ㄐ"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-cb6c376f-6848-4449-9bbe-4283c5b16465",
+      "title": "改善服務品質",
+      "pageLabel": "2",
+      "path": "pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json"
+    },
+    "next": {
+      "id": "slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4",
+      "title": "新的簡報頁",
+      "pageLabel": "4",
+      "path": "pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json"
+    }
+  }
+}
