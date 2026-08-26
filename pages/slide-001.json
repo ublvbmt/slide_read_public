@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:30:55.581Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-001",
+    "topicId": "topic-governance",
+    "sortOrder": 1,
+    "pageLabel": "1",
+    "title": "課程大綱",
+    "subtitle": "-",
+    "body": ""
+  },
+  "navigation": {
+    "previous": null,
+    "next": {
+      "id": "slide-002",
+      "title": "你對於未來的想像是什麼",
+      "pageLabel": "2",
+      "path": "pages/slide-002.json"
+    }
+  }
+}
