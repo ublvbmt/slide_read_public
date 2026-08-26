@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:50.121Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-96d08392-7532-42e0-9bbb-85cdd173e08d",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 15,
+    "pageLabel": "15",
+    "title": "年齡（上網率）",
+    "subtitle": "-",
+    "body": "數位使用的分水嶺：越高齡，上網率下降越明顯。 上網率（%）： 18-29：99.5% 30-39：99.9% 40-49：99.9% 50-59：98.8% 60-64：87.6% 65+：64.3% （數位斷層）"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-dd272255-5225-491d-b2d6-046f43179f95",
+      "title": "測試一下你的數位直覺",
+      "pageLabel": "14",
+      "path": "pages/slide-dd272255-5225-491d-b2d6-046f43179f95.json"
+    },
+    "next": {
+      "id": "slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f",
+      "title": "新住民力",
+      "pageLabel": "16",
+      "path": "pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json"
+    }
+  }
+}
