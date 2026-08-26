@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:24.316Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-024",
+    "topicId": "topic-governance",
+    "sortOrder": 26,
+    "pageLabel": "26",
+    "title": "智慧政府發展的近程",
+    "subtitle": "",
+    "body": "Gov 1.0 → Gov 4.0 從單純的業務電子化，邁向主動且精準的智慧化服務。 Gov 1.0 政府電子化（業務電子化） Gov 2.0 開放資料（透明化） Gov 3.0 政府數位化（跨機關串連） Gov 4.0 政府智慧化（主動精準服務）"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-023",
+      "title": "數位包容",
+      "pageLabel": "25",
+      "path": "pages/slide-023.json"
+    },
+    "next": {
+      "id": "slide-025",
+      "title": "數發部如何推動AI世代智慧政府",
+      "pageLabel": "27",
+      "path": "pages/slide-025.json"
+    }
+  }
+}
