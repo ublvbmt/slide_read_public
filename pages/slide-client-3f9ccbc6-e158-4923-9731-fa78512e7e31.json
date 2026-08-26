@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:10.577Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 6,
+    "pageLabel": "6",
+    "title": "AI人才大家搶",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-client-1697887a-3770-435d-8cf3-3216aaf2988d",
+      "title": "AI全面佔領科研領域",
+      "pageLabel": "5",
+      "path": "pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json"
+    },
+    "next": {
+      "id": "slide-client-edae71bc-10ee-49ba-9324-464a45df38d8",
+      "title": "AI將會帶來什麼樣的未來",
+      "pageLabel": "7",
+      "path": "pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json"
+    }
+  }
+}
