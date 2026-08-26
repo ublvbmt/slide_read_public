@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:27.642Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-027",
+    "topicId": "topic-governance",
+    "sortOrder": 29,
+    "pageLabel": "29",
+    "title": "我會如何用AI",
+    "subtitle": "Case1:自動填寫",
+    "body": "情境:當你面對填基本資料時刻\n功能:解決繁瑣、制式的人工作業"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-026",
+      "title": "智慧財產權",
+      "pageLabel": "28",
+      "path": "pages/slide-026.json"
+    },
+    "next": {
+      "id": "slide-028",
+      "title": "我會如何用AI",
+      "pageLabel": "30",
+      "path": "pages/slide-028.json"
+    }
+  }
+}
