@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:43.328Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-2bcfb72d-db47-4d9e-980a-0b337ae00177",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 9,
+    "pageLabel": "9",
+    "title": "新的簡報頁",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-68d27e3a-cb34-40da-a421-8378e80d9daf",
+      "title": "新的簡報頁",
+      "pageLabel": "8",
+      "path": "pages/slide-68d27e3a-cb34-40da-a421-8378e80d9daf.json"
+    },
+    "next": {
+      "id": "slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc",
+      "title": "我們是掌握數據還是被數據掌握",
+      "pageLabel": "10",
+      "path": "pages/slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc.json"
+    }
+  }
+}
