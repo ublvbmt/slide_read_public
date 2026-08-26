@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:30:59.007Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-004",
+    "topicId": "topic-governance",
+    "sortOrder": 4,
+    "pageLabel": "4",
+    "title": "我們先來看看全球模範生",
+    "subtitle": "新加坡:以民為本的智慧獅城",
+    "body": "新加坡:\n-Singpass\n-LifeSG App\n-SGFinDex"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-003",
+      "title": "我們先來看看全球模範生",
+      "pageLabel": "3",
+      "path": "pages/slide-003.json"
+    },
+    "next": {
+      "id": "slide-005",
+      "title": "什麼是智慧政府?",
+      "pageLabel": "5",
+      "path": "pages/slide-005.json"
+    }
+  }
+}
