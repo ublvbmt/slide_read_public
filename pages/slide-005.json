@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:00.053Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-005",
+    "topicId": "topic-governance",
+    "sortOrder": 5,
+    "pageLabel": "5",
+    "title": "什麼是智慧政府?",
+    "subtitle": "數位治理是智慧政府的基礎與實踐手段\n\n智慧政府則是數位治理追求的進階目標",
+    "body": "台北101攀爬實況\n-台北大數據中心：儀表板\n-公共安全：5G 專網\n-監控與管理：AI 影像偵測\n-市民參與：TaipeiPASS\n-城市模擬：Digital Twin 數位孿生"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-004",
+      "title": "我們先來看看全球模範生",
+      "pageLabel": "4",
+      "path": "pages/slide-004.json"
+    },
+    "next": {
+      "id": "slide-006",
+      "title": "是什麼加速了數位治理的重要性...或是難度?",
+      "pageLabel": "6",
+      "path": "pages/slide-006.json"
+    }
+  }
+}
