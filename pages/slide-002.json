@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:30:56.674Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-002",
+    "topicId": "topic-governance",
+    "sortOrder": 2,
+    "pageLabel": "2",
+    "title": "你對於未來的想像是什麼",
+    "subtitle": "-",
+    "body": "從2019年的想像跨越到2050的現實"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-001",
+      "title": "課程大綱",
+      "pageLabel": "1",
+      "path": "pages/slide-001.json"
+    },
+    "next": {
+      "id": "slide-003",
+      "title": "我們先來看看全球模範生",
+      "pageLabel": "3",
+      "path": "pages/slide-003.json"
+    }
+  }
+}
