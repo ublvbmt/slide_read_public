@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:58.783Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-f8351e67-559e-4684-b80f-0c3ca6f92174",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 23,
+    "pageLabel": "23",
+    "title": "我會如何用AI",
+    "subtitle": "Case2:Canvas",
+    "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-827d05eb-e002-43ea-91e8-6837590fb13a",
+      "title": "智慧財產權",
+      "pageLabel": "22",
+      "path": "pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json"
+    },
+    "next": {
+      "id": "slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb",
+      "title": "我會如何用AI",
+      "pageLabel": "24",
+      "path": "pages/slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb.json"
+    }
+  }
+}
