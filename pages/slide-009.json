@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:04.547Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-009",
+    "topicId": "topic-governance",
+    "sortOrder": 9,
+    "pageLabel": "9",
+    "title": "改善服務品質",
+    "subtitle": "多元領取管道 × 智慧分流 × 防詐防偽",
+    "body": "多元發放通路、人流分流管理與防詐防偽機制\n\n讓民眾安心領取、快速完成。 特定直接入帳（免申請） ATM 領現（快速便利） 身分證尾數分流（有序登記） 郵局領現（實體服務） 偏鄉造冊發放（確保全員） 智慧分流機制（網站流量控管） 登記入帳（官方網站）\n\n防詐防偽機制（全面守護）｜監控、單一官網（6000.gov.tw）、AI 巡網"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-008",
+      "title": "政府運用 ICT",
+      "pageLabel": "8",
+      "path": "pages/slide-008.json"
+    },
+    "next": {
+      "id": "slide-011",
+      "title": "優化治理維度",
+      "pageLabel": "10",
+      "path": "pages/slide-011.json"
+    }
+  }
+}
