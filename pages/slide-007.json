@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:02.117Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-007",
+    "topicId": "topic-governance",
+    "sortOrder": 7,
+    "pageLabel": "7",
+    "title": "何謂好的數位治理",
+    "subtitle": "我們來看看聯合國的定義",
+    "body": "-政府運用 ICT\n-改善服務品質\n\n-優化治理維度 治理維度：課責、透明、效率、效能\n-促進公民參與｜"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-006",
+      "title": "是什麼加速了數位治理的重要性...或是難度?",
+      "pageLabel": "6",
+      "path": "pages/slide-006.json"
+    },
+    "next": {
+      "id": "slide-008",
+      "title": "政府運用 ICT",
+      "pageLabel": "8",
+      "path": "pages/slide-008.json"
+    }
+  }
+}
