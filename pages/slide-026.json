@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:26.580Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-026",
+    "topicId": "topic-governance",
+    "sortOrder": 28,
+    "pageLabel": "28",
+    "title": "智慧財產權",
+    "subtitle": "3種你應該注意的權利義務",
+    "body": "我會侵權嗎?\n我能主張權利嗎?\n訓練模型有注意智慧財產權議題嗎?"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-025",
+      "title": "數發部如何推動AI世代智慧政府",
+      "pageLabel": "27",
+      "path": "pages/slide-025.json"
+    },
+    "next": {
+      "id": "slide-027",
+      "title": "我會如何用AI",
+      "pageLabel": "29",
+      "path": "pages/slide-027.json"
+    }
+  }
+}
