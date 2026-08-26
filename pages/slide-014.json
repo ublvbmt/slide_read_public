@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:12.314Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-014",
+    "topicId": "topic-governance",
+    "sortOrder": 16,
+    "pageLabel": "16",
+    "title": "我們是掌握數據還是被數據掌握",
+    "subtitle": "",
+    "body": "-臉書的情緒測驗\n-短影音的秒級偵測\n→ 水煮花椰菜 → 健康減肥的原理 → 生酮飲食快速瘦 → 你適合極端斷食法的奇蹟 → 乾斷食（Dry Fasting）：連水都不喝的細胞排毒奇蹟？ → 呼吸主義（Breatharianism）：不吃不喝，靠吸空氣與陽光活下來的超能力 → 終極陰謀論：政府與大製藥廠刻意隱瞞「人類其實不需要食物」的秘密，好用基因改造食品控制我們？ → 加入「光之子」靈修組織，一同斷食修行，迎接地球維度提升"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0",
+      "title": "新的簡報頁",
+      "pageLabel": "15",
+      "path": "pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json"
+    },
+    "next": {
+      "id": "slide-015",
+      "title": "我們是掌握數據還是被數據掌握",
+      "pageLabel": "17",
+      "path": "pages/slide-015.json"
+    }
+  }
+}
