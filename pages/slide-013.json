@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:07.785Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-013",
+    "topicId": "topic-governance",
+    "sortOrder": 12,
+    "pageLabel": "12",
+    "title": "數據爆炸的時代",
+    "subtitle": "",
+    "body": "用戶生成內容 181 Zettabytes"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-012",
+      "title": "促進公民參與",
+      "pageLabel": "11",
+      "path": "pages/slide-012.json"
+    },
+    "next": {
+      "id": "slide-9a36957a-926f-4be6-90cc-a4941b160d91",
+      "title": "新的簡報頁",
+      "pageLabel": "13",
+      "path": "pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json"
+    }
+  }
+}
