@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:06.716Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-012",
+    "topicId": "topic-governance",
+    "sortOrder": 11,
+    "pageLabel": "11",
+    "title": "促進公民參與",
+    "subtitle": "Join平臺",
+    "body": "2015/02/10（由國發會推動） 主要功能：民眾可參與政策建言、Inter（網路連署） 定位：全民參與公共事務的常設管道"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-011",
+      "title": "優化治理維度",
+      "pageLabel": "10",
+      "path": "pages/slide-011.json"
+    },
+    "next": {
+      "id": "slide-013",
+      "title": "數據爆炸的時代",
+      "pageLabel": "12",
+      "path": "pages/slide-013.json"
+    }
+  }
+}
