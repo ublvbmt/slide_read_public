@@ -1,0 +1,746 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:23:10.158Z",
+  "topicCount": 3,
+  "slideCount": 79,
+  "topics": [
+    {
+      "id": "topic-governance",
+      "name": "智慧政府與數位治理",
+      "sortOrder": 1,
+      "createdAt": "2026-08-23T10:00:09.683Z",
+      "updatedAt": "2026-08-23T10:00:09.683Z",
+      "slides": [
+        {
+          "id": "slide-001",
+          "topicId": "topic-governance",
+          "sortOrder": 1,
+          "pageLabel": "1",
+          "title": "課程大綱",
+          "subtitle": "-",
+          "body": ""
+        },
+        {
+          "id": "slide-002",
+          "topicId": "topic-governance",
+          "sortOrder": 2,
+          "pageLabel": "2",
+          "title": "你對於未來的想像是什麼",
+          "subtitle": "-",
+          "body": "從2019年的想像跨越到2050的現實"
+        },
+        {
+          "id": "slide-003",
+          "topicId": "topic-governance",
+          "sortOrder": 3,
+          "pageLabel": "3",
+          "title": "我們先來看看全球模範生",
+          "subtitle": "愛沙尼亞:最徹底的數位王國",
+          "body": "愛沙尼亞:\n-全線上服務\n-x-Road\n-i-Voting\n-e-Residency"
+        },
+        {
+          "id": "slide-004",
+          "topicId": "topic-governance",
+          "sortOrder": 4,
+          "pageLabel": "4",
+          "title": "我們先來看看全球模範生",
+          "subtitle": "新加坡:以民為本的智慧獅城",
+          "body": "新加坡:\n-Singpass\n-LifeSG App\n-SGFinDex"
+        },
+        {
+          "id": "slide-005",
+          "topicId": "topic-governance",
+          "sortOrder": 5,
+          "pageLabel": "5",
+          "title": "什麼是智慧政府?",
+          "subtitle": "數位治理是智慧政府的基礎與實踐手段\n\n智慧政府則是數位治理追求的進階目標",
+          "body": "台北101攀爬實況\n-台北大數據中心：儀表板\n-公共安全：5G 專網\n-監控與管理：AI 影像偵測\n-市民參與：TaipeiPASS\n-城市模擬：Digital Twin 數位孿生"
+        },
+        {
+          "id": "slide-006",
+          "topicId": "topic-governance",
+          "sortOrder": 6,
+          "pageLabel": "6",
+          "title": "是什麼加速了數位治理的重要性...或是難度?",
+          "subtitle": "-",
+          "body": "社群媒體:\n52.4 億\n63.9%\n\n智慧手機\n57.8 億人\n70.5%\n\nIOT:\n211 億\n\n大數據:\n181 ZB\n\nAI:\n學員: 我已經聽膩了 >_<"
+        },
+        {
+          "id": "slide-007",
+          "topicId": "topic-governance",
+          "sortOrder": 7,
+          "pageLabel": "7",
+          "title": "何謂好的數位治理",
+          "subtitle": "我們來看看聯合國的定義",
+          "body": "-政府運用 ICT\n-改善服務品質\n\n-優化治理維度 治理維度：課責、透明、效率、效能\n-促進公民參與｜"
+        },
+        {
+          "id": "slide-008",
+          "topicId": "topic-governance",
+          "sortOrder": 8,
+          "pageLabel": "8",
+          "title": "政府運用 ICT",
+          "subtitle": "數發部打造的基礎環境",
+          "body": "-T-Road\n-簡訊111平臺\n-Mydata\n-數位憑證皮夾"
+        },
+        {
+          "id": "slide-009",
+          "topicId": "topic-governance",
+          "sortOrder": 9,
+          "pageLabel": "9",
+          "title": "改善服務品質",
+          "subtitle": "多元領取管道 × 智慧分流 × 防詐防偽",
+          "body": "多元發放通路、人流分流管理與防詐防偽機制\n\n讓民眾安心領取、快速完成。 特定直接入帳（免申請） ATM 領現（快速便利） 身分證尾數分流（有序登記） 郵局領現（實體服務） 偏鄉造冊發放（確保全員） 智慧分流機制（網站流量控管） 登記入帳（官方網站）\n\n防詐防偽機制（全面守護）｜監控、單一官網（6000.gov.tw）、AI 巡網"
+        },
+        {
+          "id": "slide-011",
+          "topicId": "topic-governance",
+          "sortOrder": 10,
+          "pageLabel": "10",
+          "title": "優化治理維度",
+          "subtitle": "透明\n效率\n課責",
+          "body": "OpenData\n全線上服務\n(ask once)"
+        },
+        {
+          "id": "slide-012",
+          "topicId": "topic-governance",
+          "sortOrder": 11,
+          "pageLabel": "11",
+          "title": "促進公民參與",
+          "subtitle": "Join平臺",
+          "body": "2015/02/10（由國發會推動） 主要功能：民眾可參與政策建言、Inter（網路連署） 定位：全民參與公共事務的常設管道"
+        },
+        {
+          "id": "slide-013",
+          "topicId": "topic-governance",
+          "sortOrder": 12,
+          "pageLabel": "12",
+          "title": "數據爆炸的時代",
+          "subtitle": "",
+          "body": "用戶生成內容 181 Zettabytes"
+        },
+        {
+          "id": "slide-9a36957a-926f-4be6-90cc-a4941b160d91",
+          "topicId": "topic-governance",
+          "sortOrder": 13,
+          "pageLabel": "13",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-e44b50d5-f80e-4e7c-9350-243001a6d266",
+          "topicId": "topic-governance",
+          "sortOrder": 14,
+          "pageLabel": "14",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0",
+          "topicId": "topic-governance",
+          "sortOrder": 15,
+          "pageLabel": "15",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-014",
+          "topicId": "topic-governance",
+          "sortOrder": 16,
+          "pageLabel": "16",
+          "title": "我們是掌握數據還是被數據掌握",
+          "subtitle": "",
+          "body": "-臉書的情緒測驗\n-短影音的秒級偵測\n→ 水煮花椰菜 → 健康減肥的原理 → 生酮飲食快速瘦 → 你適合極端斷食法的奇蹟 → 乾斷食（Dry Fasting）：連水都不喝的細胞排毒奇蹟？ → 呼吸主義（Breatharianism）：不吃不喝，靠吸空氣與陽光活下來的超能力 → 終極陰謀論：政府與大製藥廠刻意隱瞞「人類其實不需要食物」的秘密，好用基因改造食品控制我們？ → 加入「光之子」靈修組織，一同斷食修行，迎接地球維度提升"
+        },
+        {
+          "id": "slide-015",
+          "topicId": "topic-governance",
+          "sortOrder": 17,
+          "pageLabel": "17",
+          "title": "我們是掌握數據還是被數據掌握",
+          "subtitle": "Netflix",
+          "body": "如何精準投放，讓我們像獵物一樣被舒服的命中"
+        },
+        {
+          "id": "slide-016",
+          "topicId": "topic-governance",
+          "sortOrder": 18,
+          "pageLabel": "18",
+          "title": "掌握數據不是壞事",
+          "subtitle": "我的e政府",
+          "body": "政府服務的百貨公司"
+        },
+        {
+          "id": "slide-017",
+          "topicId": "topic-governance",
+          "sortOrder": 19,
+          "pageLabel": "19",
+          "title": "數位治理的第一步",
+          "subtitle": "Know Your Customer",
+          "body": "數位機會調查:\n調查對象：台灣 22 縣市 12 歲以上民眾 調查方法：CATI 電腦輔助電話訪問 有效樣本：15,133 份 信賴水準：95%（抽樣誤差 ±0.8%）"
+        },
+        {
+          "id": "slide-018",
+          "topicId": "topic-governance",
+          "sortOrder": 20,
+          "pageLabel": "20",
+          "title": "測試一下你的數位直覺",
+          "subtitle": "請拿起你的手機",
+          "body": ""
+        },
+        {
+          "id": "slide-019",
+          "topicId": "topic-governance",
+          "sortOrder": 21,
+          "pageLabel": "21",
+          "title": "年齡（上網率）",
+          "subtitle": "-",
+          "body": "數位使用的分水嶺：越高齡，上網率下降越明顯。 上網率（%）： 18-29：99.5% 30-39：99.9% 40-49：99.9% 50-59：98.8% 60-64：87.6% 65+：64.3% （數位斷層）"
+        },
+        {
+          "id": "slide-020",
+          "topicId": "topic-governance",
+          "sortOrder": 22,
+          "pageLabel": "22",
+          "title": "新住民力",
+          "subtitle": "新住民上網率高於台灣平均",
+          "body": "新住民：98.1% 台灣平均：87.6%"
+        },
+        {
+          "id": "slide-021",
+          "topicId": "topic-governance",
+          "sortOrder": 23,
+          "pageLabel": "23",
+          "title": "各縣市上網率（依縣市分）",
+          "subtitle": "不同縣市，普及率各具差異",
+          "body": "新竹市 94.5%、臺北市 94.3%、桃園市 93.8%、新北市 93.5%、新竹縣 93.5%、連江縣 93.3%、嘉義市 92.1%、臺中市 91.5%、宜蘭縣 91.2%、全體 91.1%、基隆市 91.1%、苗栗縣 90.8% 花蓮縣 90.3%、高雄市 90.0%、臺南市 88.6%、金門縣 88.4%、彰化縣 88.1%、南投縣 85.7%、嘉義縣 85.4%、澎湖縣 85.2%、臺東縣 85.2%、屏東縣 85.0%、雲林縣 84.7% （標註：高普及連線差異／連線差異明顯）"
+        },
+        {
+          "id": "slide-022",
+          "topicId": "topic-governance",
+          "sortOrder": 24,
+          "pageLabel": "24",
+          "title": "數位平權",
+          "subtitle": "身心障礙者的需求亟需關注",
+          "body": "非身心障礙民眾：88.8% 身心障礙民眾：73.0% 落差 15.8%"
+        },
+        {
+          "id": "slide-023",
+          "topicId": "topic-governance",
+          "sortOrder": 25,
+          "pageLabel": "25",
+          "title": "數位包容",
+          "subtitle": "Left no one behind",
+          "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯"
+        },
+        {
+          "id": "slide-024",
+          "topicId": "topic-governance",
+          "sortOrder": 26,
+          "pageLabel": "26",
+          "title": "智慧政府發展的近程",
+          "subtitle": "",
+          "body": "Gov 1.0 → Gov 4.0 從單純的業務電子化，邁向主動且精準的智慧化服務。 Gov 1.0 政府電子化（業務電子化） Gov 2.0 開放資料（透明化） Gov 3.0 政府數位化（跨機關串連） Gov 4.0 政府智慧化（主動精準服務）"
+        },
+        {
+          "id": "slide-025",
+          "topicId": "topic-governance",
+          "sortOrder": 27,
+          "pageLabel": "27",
+          "title": "數發部如何推動AI世代智慧政府",
+          "subtitle": "五層蛋糕",
+          "body": "由下往上\n厚植政府智慧化應用基礎環境\n\n完備智慧化應用所需資料與模型\n\n建構智慧化行政服務\n\n發展智慧化為民服務\n\n打造數位平權政府智慧服務"
+        },
+        {
+          "id": "slide-026",
+          "topicId": "topic-governance",
+          "sortOrder": 28,
+          "pageLabel": "28",
+          "title": "智慧財產權",
+          "subtitle": "3種你應該注意的權利義務",
+          "body": "我會侵權嗎?\n我能主張權利嗎?\n訓練模型有注意智慧財產權議題嗎?"
+        },
+        {
+          "id": "slide-027",
+          "topicId": "topic-governance",
+          "sortOrder": 29,
+          "pageLabel": "29",
+          "title": "我會如何用AI",
+          "subtitle": "Case1:自動填寫",
+          "body": "情境:當你面對填基本資料時刻\n功能:解決繁瑣、制式的人工作業"
+        },
+        {
+          "id": "slide-028",
+          "topicId": "topic-governance",
+          "sortOrder": 30,
+          "pageLabel": "30",
+          "title": "我會如何用AI",
+          "subtitle": "Case2:Canvas",
+          "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得"
+        },
+        {
+          "id": "slide-029",
+          "topicId": "topic-governance",
+          "sortOrder": 31,
+          "pageLabel": "31",
+          "title": "我會如何用AI",
+          "subtitle": "Case3:一鍵完成文稿",
+          "body": "情境:當你既有的業務資料需要填報\n功能:自動抓取雲端硬資料，依照範例格式生成"
+        },
+        {
+          "id": "slide-030",
+          "topicId": "topic-governance",
+          "sortOrder": 32,
+          "pageLabel": "32",
+          "title": "我會如何用AI",
+          "subtitle": "Case4:建立自動審查機制",
+          "body": "情境:當你要資料審查、使用過往的分析資訊時\n功能:自動歸納人為智慧及審查要點，輕鬆模擬人工審查"
+        },
+        {
+          "id": "slide-031",
+          "topicId": "topic-governance",
+          "sortOrder": 33,
+          "pageLabel": "33",
+          "title": "我會如何用AI",
+          "subtitle": "Case5:做出好看實用的簡報",
+          "body": "情境:我們永遠都要做簡報、都要做圖卡\n\n功能:做出比別人更耳目一新的內容"
+        },
+        {
+          "id": "slide-032",
+          "topicId": "topic-governance",
+          "sortOrder": 34,
+          "pageLabel": "34",
+          "title": "我會如何用AI",
+          "subtitle": "Case6:我的第一個網頁跟程式",
+          "body": "情境:我想做個小網頁、小程式\n\n功能:增加易讀性，美觀性，擁有自主客製化的功能，打造人生的第一個自己寫的程式"
+        }
+      ]
+    },
+    {
+      "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+      "name": "智慧政府與數位治理（副本）",
+      "sortOrder": 2,
+      "createdAt": "2026-08-23T11:33:11.264Z",
+      "updatedAt": "2026-08-23T11:33:11.264Z",
+      "slides": [
+        {
+          "id": "slide-4b10e594-2119-45e1-9459-e227ba843f1c",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 1,
+          "pageLabel": "1",
+          "title": "課程大綱",
+          "subtitle": "-",
+          "body": ""
+        },
+        {
+          "id": "slide-cb6c376f-6848-4449-9bbe-4283c5b16465",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 2,
+          "pageLabel": "2",
+          "title": "改善服務品質",
+          "subtitle": "多元領取管道 × 智慧分流 × 防詐防偽",
+          "body": "多元發放通路、人流分流管理與防詐防偽機制\n\n讓民眾安心領取、快速完成。 特定直接入帳（免申請） ATM 領現（快速便利） 身分證尾數分流（有序登記） 郵局領現（實體服務） 偏鄉造冊發放（確保全員） 智慧分流機制（網站流量控管） 登記入帳（官方網站）\n\n防詐防偽機制（全面守護）｜監控、單一官網（6000.gov.tw）、AI 巡網"
+        },
+        {
+          "id": "slide-53114b03-3dda-44c0-924b-8b19c406c14b",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 3,
+          "pageLabel": "3",
+          "title": "ㄉ",
+          "subtitle": "",
+          "body": "WR ㄐ"
+        },
+        {
+          "id": "slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 4,
+          "pageLabel": "4",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-5f973634-fdbf-4ef4-ae15-af5816383569",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 5,
+          "pageLabel": "5",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 6,
+          "pageLabel": "6",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 7,
+          "pageLabel": "7",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-68d27e3a-cb34-40da-a421-8378e80d9daf",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 8,
+          "pageLabel": "8",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-2bcfb72d-db47-4d9e-980a-0b337ae00177",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 9,
+          "pageLabel": "9",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 10,
+          "pageLabel": "10",
+          "title": "我們是掌握數據還是被數據掌握",
+          "subtitle": "",
+          "body": "-臉書的情緒測驗\n-短影音的秒級偵測\n→ 水煮花椰菜 → 健康減肥的原理 → 生酮飲食快速瘦 → 你適合極端斷食法的奇蹟 → 乾斷食（Dry Fasting）：連水都不喝的細胞排毒奇蹟？ → 呼吸主義（Breatharianism）：不吃不喝，靠吸空氣與陽光活下來的超能力 → 終極陰謀論：政府與大製藥廠刻意隱瞞「人類其實不需要食物」的秘密，好用基因改造食品控制我們？ → 加入「光之子」靈修組織，一同斷食修行，迎接地球維度提升"
+        },
+        {
+          "id": "slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 11,
+          "pageLabel": "11",
+          "title": "我們是掌握數據還是被數據掌握",
+          "subtitle": "Netflix",
+          "body": "如何精準投放，讓我們像獵物一樣被舒服的命中"
+        },
+        {
+          "id": "slide-9ef654a4-64cc-41d2-964b-c3152056c20f",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 12,
+          "pageLabel": "12",
+          "title": "掌握數據不是壞事",
+          "subtitle": "我的e政府",
+          "body": "政府服務的百貨公司"
+        },
+        {
+          "id": "slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 13,
+          "pageLabel": "13",
+          "title": "數位治理的第一步",
+          "subtitle": "Know Your Customer",
+          "body": "數位機會調查:\n調查對象：台灣 22 縣市 12 歲以上民眾 調查方法：CATI 電腦輔助電話訪問 有效樣本：15,133 份 信賴水準：95%（抽樣誤差 ±0.8%）"
+        },
+        {
+          "id": "slide-dd272255-5225-491d-b2d6-046f43179f95",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 14,
+          "pageLabel": "14",
+          "title": "測試一下你的數位直覺",
+          "subtitle": "請拿起你的手機",
+          "body": ""
+        },
+        {
+          "id": "slide-96d08392-7532-42e0-9bbb-85cdd173e08d",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 15,
+          "pageLabel": "15",
+          "title": "年齡（上網率）",
+          "subtitle": "-",
+          "body": "數位使用的分水嶺：越高齡，上網率下降越明顯。 上網率（%）： 18-29：99.5% 30-39：99.9% 40-49：99.9% 50-59：98.8% 60-64：87.6% 65+：64.3% （數位斷層）"
+        },
+        {
+          "id": "slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 16,
+          "pageLabel": "16",
+          "title": "新住民力",
+          "subtitle": "新住民上網率高於台灣平均",
+          "body": "新住民：98.1% 台灣平均：87.6%"
+        },
+        {
+          "id": "slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 17,
+          "pageLabel": "17",
+          "title": "各縣市上網率（依縣市分）",
+          "subtitle": "不同縣市，普及率各具差異",
+          "body": "新竹市 94.5%、臺北市 94.3%、桃園市 93.8%、新北市 93.5%、新竹縣 93.5%、連江縣 93.3%、嘉義市 92.1%、臺中市 91.5%、宜蘭縣 91.2%、全體 91.1%、基隆市 91.1%、苗栗縣 90.8% 花蓮縣 90.3%、高雄市 90.0%、臺南市 88.6%、金門縣 88.4%、彰化縣 88.1%、南投縣 85.7%、嘉義縣 85.4%、澎湖縣 85.2%、臺東縣 85.2%、屏東縣 85.0%、雲林縣 84.7% （標註：高普及連線差異／連線差異明顯）"
+        },
+        {
+          "id": "slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 18,
+          "pageLabel": "18",
+          "title": "數位平權",
+          "subtitle": "身心障礙者的需求亟需關注",
+          "body": "非身心障礙民眾：88.8% 身心障礙民眾：73.0% 落差 15.8%"
+        },
+        {
+          "id": "slide-94d68ac4-e34d-47a1-8d3c-fa166301c743",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 19,
+          "pageLabel": "19",
+          "title": "數位包容",
+          "subtitle": "Left no one behind",
+          "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯"
+        },
+        {
+          "id": "slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 20,
+          "pageLabel": "20",
+          "title": "智慧政府發展的近程",
+          "subtitle": "",
+          "body": "Gov 1.0 → Gov 4.0 從單純的業務電子化，邁向主動且精準的智慧化服務。 Gov 1.0 政府電子化（業務電子化） Gov 2.0 開放資料（透明化） Gov 3.0 政府數位化（跨機關串連） Gov 4.0 政府智慧化（主動精準服務）"
+        },
+        {
+          "id": "slide-82552774-a4d4-4f9c-97bc-c998475a7864",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 21,
+          "pageLabel": "21",
+          "title": "數發部如何推動AI世代智慧政府",
+          "subtitle": "五層蛋糕",
+          "body": "由下往上\n厚植政府智慧化應用基礎環境\n\n完備智慧化應用所需資料與模型\n\n建構智慧化行政服務\n\n發展智慧化為民服務\n\n打造數位平權政府智慧服務"
+        },
+        {
+          "id": "slide-827d05eb-e002-43ea-91e8-6837590fb13a",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 22,
+          "pageLabel": "22",
+          "title": "智慧財產權",
+          "subtitle": "3種你應該注意的權利義務",
+          "body": "我會侵權嗎?\n我能主張權利嗎?\n訓練模型有注意智慧財產權議題嗎?"
+        },
+        {
+          "id": "slide-f8351e67-559e-4684-b80f-0c3ca6f92174",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 23,
+          "pageLabel": "23",
+          "title": "我會如何用AI",
+          "subtitle": "Case2:Canvas",
+          "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得"
+        },
+        {
+          "id": "slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 24,
+          "pageLabel": "24",
+          "title": "我會如何用AI",
+          "subtitle": "Case3:一鍵完成文稿",
+          "body": "情境:當你既有的業務資料需要填報\n功能:自動抓取雲端硬資料，依照範例格式生成"
+        },
+        {
+          "id": "slide-189c37e3-9dde-4ef2-af4e-ab598e603499",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 25,
+          "pageLabel": "25",
+          "title": "我會如何用AI",
+          "subtitle": "Case4:建立自動審查機制",
+          "body": "情境:當你要資料審查、使用過往的分析資訊時\n功能:自動歸納人為智慧及審查要點，輕鬆模擬人工審查"
+        },
+        {
+          "id": "slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 26,
+          "pageLabel": "26",
+          "title": "我會如何用AI",
+          "subtitle": "Case5:做出好看實用的簡報",
+          "body": "情境:我們永遠都要做簡報、都要做圖卡\n\n功能:做出比別人更耳目一新的內容"
+        },
+        {
+          "id": "slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9",
+          "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+          "sortOrder": 27,
+          "pageLabel": "27",
+          "title": "我會如何用AI",
+          "subtitle": "Case6:我的第一個網頁跟程式",
+          "body": "情境:我想做個小網頁、小程式\n\n功能:增加易讀性，美觀性，擁有自主客製化的功能，打造人生的第一個自己寫的程式"
+        }
+      ]
+    },
+    {
+      "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+      "name": "AI原理趨勢與創新應用",
+      "sortOrder": 3,
+      "createdAt": "2026-08-23T12:22:08.713Z",
+      "updatedAt": "2026-08-23T12:22:17.336Z",
+      "slides": [
+        {
+          "id": "slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 1,
+          "pageLabel": "1",
+          "title": "AI是如何訓練的",
+          "subtitle": "空間空量儲存",
+          "body": "每一個詞元(Token)都有一個對應的位置，越相近、越相關的位置就會越靠近。"
+        },
+        {
+          "id": "slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 2,
+          "pageLabel": "2",
+          "title": "AI是如何運算的",
+          "subtitle": "",
+          "body": "1.切割Token (詞元)\n2.Token 編碼 (向量)\n3.輸入運算(參數)\n4.逐字輸出(機率)\n上兆個參數，上萬個向量-->海量的運算需求"
+        },
+        {
+          "id": "slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 3,
+          "pageLabel": "3",
+          "title": "你的AI競爭對手有多少?",
+          "subtitle": "全球AI使用現況",
+          "body": ""
+        },
+        {
+          "id": "slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 4,
+          "pageLabel": "4",
+          "title": "AI賺錢也燒錢",
+          "subtitle": "全球資本大量投入，量變帶來質變",
+          "body": ""
+        },
+        {
+          "id": "slide-client-1697887a-3770-435d-8cf3-3216aaf2988d",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 5,
+          "pageLabel": "5",
+          "title": "AI全面佔領科研領域",
+          "subtitle": "",
+          "body": "物理學#機器學習 #神經網路 #深度學習化學獎#AI準確預測蛋白質結構經濟學獎#AI對經濟社會影響 #AI技術變革與進步關係"
+        },
+        {
+          "id": "slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 6,
+          "pageLabel": "6",
+          "title": "AI人才大家搶",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-client-edae71bc-10ee-49ba-9324-464a45df38d8",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 7,
+          "pageLabel": "7",
+          "title": "AI將會帶來什麼樣的未來",
+          "subtitle": "",
+          "body": "機器人也瘋狂"
+        },
+        {
+          "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 8,
+          "pageLabel": "8",
+          "title": "AI將會帶來什麼樣的未來",
+          "subtitle": "",
+          "body": "自駕車放手一搏"
+        },
+        {
+          "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 9,
+          "pageLabel": "9",
+          "title": "AI將會帶來什麼樣的未來",
+          "subtitle": "",
+          "body": "誰是誰的主人"
+        },
+        {
+          "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 10,
+          "pageLabel": "10",
+          "title": "AI將會帶來什麼樣的未來",
+          "subtitle": "",
+          "body": "AI的倫理議題  結婚與傷亡"
+        },
+        {
+          "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 11,
+          "pageLabel": "11",
+          "title": "AI將會帶來什麼樣的未來",
+          "subtitle": "AI的新境界",
+          "body": "腦機合作   智慧眼鏡"
+        },
+        {
+          "id": "slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 12,
+          "pageLabel": "12",
+          "title": "談到AI,你期待嗎 你害怕嗎",
+          "subtitle": "AI的擬人犯罪",
+          "body": "GPT的越獄    vs  Anthropic的AI對殺"
+        },
+        {
+          "id": "slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 13,
+          "pageLabel": "13",
+          "title": "GPT的獄越AI",
+          "subtitle": "感受AI充滿人性的犯罪感",
+          "body": ""
+        },
+        {
+          "id": "slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 14,
+          "pageLabel": "14",
+          "title": "迴紋針理論",
+          "subtitle": "只有目標 缺乏思考",
+          "body": "AI收到指令造迴紋針-->掌管工廠、高效生產-->奪取電力、獲得資源-->滅絕人類、避免競爭-->移居火星"
+        },
+        {
+          "id": "slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 15,
+          "pageLabel": "15",
+          "title": "開源與閉源之爭",
+          "subtitle": "AI模型的二大門派",
+          "body": "|          | 開源 AI | 閉源 AI || -------- | ------- | ------- || **定義** | 模型權重、程式碼或部分技術內容對外公開，可供下載、研究與修改 | 核心模型、權重與訓練技術不公開，主要由廠商提供服務 || **代表模型** | Llama、Qwen、DeepSeek、Mistral | GPT、Claude、Gemini || **代表國家** | 中國為主 | 美國為主 || **使用方式** | 可下載模型自行執行、微調，也可透過 API 使用 | 通常透過官方網站、App 或 API 使用 || **部署方式** | 可部署於本機、伺服器、私有雲或自有機房 | 通常部署於模型公司的雲端，由原廠營運 || **資料掌握** | 可讓資料留在自己的環境，資料自主性較高 | 資料通常傳送至服務提供者處理，實際掌握程度依方案而異 |"
+        },
+        {
+          "id": "slide-client-9031b7d0-65f9-4872-a691-093eb1640fae",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 16,
+          "pageLabel": "16",
+          "title": "全球模型排名",
+          "subtitle": "檢視各國AI實力",
+          "body": "| 排名 | 公司 | 最高分模型 | 國家 | Intelligence Index | 開放性 ||---:|---|---|---|---:|---|| **1** | **Anthropic** | Claude Opus 5 (max) | 🇺🇸 美國 | **63** | 閉源 || **2** | **OpenAI** | GPT-5.6 Sol (max) | 🇺🇸 美國 | **61** | 閉源 || **3** | **xAI** | Grok 4.6 (high) | 🇺🇸 美國 | **61** | 閉源 || **4** | **Kimi / Moonshot AI** | Kimi K3 (max) | 🇨🇳 中國 | **60** | 開放權重 || **5** | **Z AI** | GLM-5.3 (max) | 🇨🇳 中國 | **60** | 開放權重／依版本 || **6** | **Alibaba** | Qwen3.8 Max | 🇨🇳 中國 | **58** | 閉源* || **7** | **Meta** | Muse Spark 1.2 (xhigh) | 🇺🇸 美國 | **57** | 閉源 || **8** | **Google** | Gemini 3.7 Flash (high) | 🇺🇸 美國 | **56** | 閉源 || **9** | **DeepSeek** | DeepSeek V4 Pro 0813 (max) | 🇨🇳 中國 | **53** | 開放權重 || **10** | **Motif Technologies** | Motif 3 | 🇰🇷 南韓 | **47** | 依版本／服務模式 |"
+        },
+        {
+          "id": "slide-client-3adb833b-086d-4cdb-97c9-08bac6846825",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 17,
+          "pageLabel": "17",
+          "title": "AI會泡沫化嗎",
+          "subtitle": "",
+          "body": ""
+        },
+        {
+          "id": "slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d",
+          "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+          "sortOrder": 18,
+          "pageLabel": "18",
+          "title": "新的簡報頁",
+          "subtitle": "",
+          "body": ""
+        }
+      ]
+    }
+  ]
+}
