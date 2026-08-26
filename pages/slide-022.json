@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:21.719Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-022",
+    "topicId": "topic-governance",
+    "sortOrder": 24,
+    "pageLabel": "24",
+    "title": "數位平權",
+    "subtitle": "身心障礙者的需求亟需關注",
+    "body": "非身心障礙民眾：88.8% 身心障礙民眾：73.0% 落差 15.8%"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-021",
+      "title": "各縣市上網率（依縣市分）",
+      "pageLabel": "23",
+      "path": "pages/slide-021.json"
+    },
+    "next": {
+      "id": "slide-023",
+      "title": "數位包容",
+      "pageLabel": "25",
+      "path": "pages/slide-023.json"
+    }
+  }
+}
