@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:38.793Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-5f973634-fdbf-4ef4-ae15-af5816383569",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 5,
+    "pageLabel": "5",
+    "title": "新的簡報頁",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4",
+      "title": "新的簡報頁",
+      "pageLabel": "4",
+      "path": "pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json"
+    },
+    "next": {
+      "id": "slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5",
+      "title": "新的簡報頁",
+      "pageLabel": "6",
+      "path": "pages/slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5.json"
+    }
+  }
+}
