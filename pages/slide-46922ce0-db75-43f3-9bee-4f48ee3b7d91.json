@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:52.396Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 17,
+    "pageLabel": "17",
+    "title": "各縣市上網率（依縣市分）",
+    "subtitle": "不同縣市，普及率各具差異",
+    "body": "新竹市 94.5%、臺北市 94.3%、桃園市 93.8%、新北市 93.5%、新竹縣 93.5%、連江縣 93.3%、嘉義市 92.1%、臺中市 91.5%、宜蘭縣 91.2%、全體 91.1%、基隆市 91.1%、苗栗縣 90.8% 花蓮縣 90.3%、高雄市 90.0%、臺南市 88.6%、金門縣 88.4%、彰化縣 88.1%、南投縣 85.7%、嘉義縣 85.4%、澎湖縣 85.2%、臺東縣 85.2%、屏東縣 85.0%、雲林縣 84.7% （標註：高普及連線差異／連線差異明顯）"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f",
+      "title": "新住民力",
+      "pageLabel": "16",
+      "path": "pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json"
+    },
+    "next": {
+      "id": "slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712",
+      "title": "數位平權",
+      "pageLabel": "18",
+      "path": "pages/slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712.json"
+    }
+  }
+}
