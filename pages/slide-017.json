@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:15.854Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-017",
+    "topicId": "topic-governance",
+    "sortOrder": 19,
+    "pageLabel": "19",
+    "title": "數位治理的第一步",
+    "subtitle": "Know Your Customer",
+    "body": "數位機會調查:\n調查對象：台灣 22 縣市 12 歲以上民眾 調查方法：CATI 電腦輔助電話訪問 有效樣本：15,133 份 信賴水準：95%（抽樣誤差 ±0.8%）"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-016",
+      "title": "掌握數據不是壞事",
+      "pageLabel": "18",
+      "path": "pages/slide-016.json"
+    },
+    "next": {
+      "id": "slide-018",
+      "title": "測試一下你的數位直覺",
+      "pageLabel": "20",
+      "path": "pages/slide-018.json"
+    }
+  }
+}
