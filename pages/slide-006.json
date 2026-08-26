@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:01.075Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-006",
+    "topicId": "topic-governance",
+    "sortOrder": 6,
+    "pageLabel": "6",
+    "title": "是什麼加速了數位治理的重要性...或是難度?",
+    "subtitle": "-",
+    "body": "社群媒體:\n52.4 億\n63.9%\n\n智慧手機\n57.8 億人\n70.5%\n\nIOT:\n211 億\n\n大數據:\n181 ZB\n\nAI:\n學員: 我已經聽膩了 >_<"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-005",
+      "title": "什麼是智慧政府?",
+      "pageLabel": "5",
+      "path": "pages/slide-005.json"
+    },
+    "next": {
+      "id": "slide-007",
+      "title": "何謂好的數位治理",
+      "pageLabel": "7",
+      "path": "pages/slide-007.json"
+    }
+  }
+}
