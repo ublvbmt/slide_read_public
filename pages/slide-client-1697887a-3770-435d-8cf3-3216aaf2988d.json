@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:09.288Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-1697887a-3770-435d-8cf3-3216aaf2988d",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 5,
+    "pageLabel": "5",
+    "title": "AI全面佔領科研領域",
+    "subtitle": "",
+    "body": "物理學#機器學習 #神經網路 #深度學習化學獎#AI準確預測蛋白質結構經濟學獎#AI對經濟社會影響 #AI技術變革與進步關係"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335",
+      "title": "AI賺錢也燒錢",
+      "pageLabel": "4",
+      "path": "pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json"
+    },
+    "next": {
+      "id": "slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31",
+      "title": "AI人才大家搶",
+      "pageLabel": "6",
+      "path": "pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json"
+    }
+  }
+}
