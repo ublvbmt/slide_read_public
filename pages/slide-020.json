@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:19.263Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-020",
+    "topicId": "topic-governance",
+    "sortOrder": 22,
+    "pageLabel": "22",
+    "title": "新住民力",
+    "subtitle": "新住民上網率高於台灣平均",
+    "body": "新住民：98.1% 台灣平均：87.6%"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-019",
+      "title": "年齡（上網率）",
+      "pageLabel": "21",
+      "path": "pages/slide-019.json"
+    },
+    "next": {
+      "id": "slide-021",
+      "title": "各縣市上網率（依縣市分）",
+      "pageLabel": "23",
+      "path": "pages/slide-021.json"
+    }
+  }
+}
