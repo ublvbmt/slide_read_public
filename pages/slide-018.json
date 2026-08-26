@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:17.020Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-018",
+    "topicId": "topic-governance",
+    "sortOrder": 20,
+    "pageLabel": "20",
+    "title": "測試一下你的數位直覺",
+    "subtitle": "請拿起你的手機",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-017",
+      "title": "數位治理的第一步",
+      "pageLabel": "19",
+      "path": "pages/slide-017.json"
+    },
+    "next": {
+      "id": "slide-019",
+      "title": "年齡（上網率）",
+      "pageLabel": "21",
+      "path": "pages/slide-019.json"
+    }
+  }
+}
