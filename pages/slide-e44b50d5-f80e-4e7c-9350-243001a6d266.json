@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:10.009Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-e44b50d5-f80e-4e7c-9350-243001a6d266",
+    "topicId": "topic-governance",
+    "sortOrder": 14,
+    "pageLabel": "14",
+    "title": "新的簡報頁",
+    "subtitle": "",
+    "body": ""
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-9a36957a-926f-4be6-90cc-a4941b160d91",
+      "title": "新的簡報頁",
+      "pageLabel": "13",
+      "path": "pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json"
+    },
+    "next": {
+      "id": "slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0",
+      "title": "新的簡報頁",
+      "pageLabel": "15",
+      "path": "pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json"
+    }
+  }
+}
