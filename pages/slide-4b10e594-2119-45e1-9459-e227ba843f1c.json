@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:34.182Z",
+  "topic": {
+    "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "name": "智慧政府與數位治理（副本）",
+    "sortOrder": 2
+  },
+  "slide": {
+    "id": "slide-4b10e594-2119-45e1-9459-e227ba843f1c",
+    "topicId": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
+    "sortOrder": 1,
+    "pageLabel": "1",
+    "title": "課程大綱",
+    "subtitle": "-",
+    "body": ""
+  },
+  "navigation": {
+    "previous": null,
+    "next": {
+      "id": "slide-cb6c376f-6848-4449-9bbe-4283c5b16465",
+      "title": "改善服務品質",
+      "pageLabel": "2",
+      "path": "pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json"
+    }
+  }
+}
