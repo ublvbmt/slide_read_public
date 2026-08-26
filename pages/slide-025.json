@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:25.395Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-025",
+    "topicId": "topic-governance",
+    "sortOrder": 27,
+    "pageLabel": "27",
+    "title": "數發部如何推動AI世代智慧政府",
+    "subtitle": "五層蛋糕",
+    "body": "由下往上\n厚植政府智慧化應用基礎環境\n\n完備智慧化應用所需資料與模型\n\n建構智慧化行政服務\n\n發展智慧化為民服務\n\n打造數位平權政府智慧服務"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-024",
+      "title": "智慧政府發展的近程",
+      "pageLabel": "26",
+      "path": "pages/slide-024.json"
+    },
+    "next": {
+      "id": "slide-026",
+      "title": "智慧財產權",
+      "pageLabel": "28",
+      "path": "pages/slide-026.json"
+    }
+  }
+}
