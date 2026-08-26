@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:32:13.954Z",
+  "topic": {
+    "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "name": "AI原理趨勢與創新應用",
+    "sortOrder": 3
+  },
+  "slide": {
+    "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
+    "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
+    "sortOrder": 9,
+    "pageLabel": "9",
+    "title": "AI將會帶來什麼樣的未來",
+    "subtitle": "",
+    "body": "誰是誰的主人"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
+      "title": "AI將會帶來什麼樣的未來",
+      "pageLabel": "8",
+      "path": "pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json"
+    },
+    "next": {
+      "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
+      "title": "AI將會帶來什麼樣的未來",
+      "pageLabel": "10",
+      "path": "pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json"
+    }
+  }
+}
