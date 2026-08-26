@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-26T16:31:14.542Z",
+  "topic": {
+    "id": "topic-governance",
+    "name": "智慧政府與數位治理",
+    "sortOrder": 1
+  },
+  "slide": {
+    "id": "slide-016",
+    "topicId": "topic-governance",
+    "sortOrder": 18,
+    "pageLabel": "18",
+    "title": "掌握數據不是壞事",
+    "subtitle": "我的e政府",
+    "body": "政府服務的百貨公司"
+  },
+  "navigation": {
+    "previous": {
+      "id": "slide-015",
+      "title": "我們是掌握數據還是被數據掌握",
+      "pageLabel": "17",
+      "path": "pages/slide-015.json"
+    },
+    "next": {
+      "id": "slide-017",
+      "title": "數位治理的第一步",
+      "pageLabel": "19",
+      "path": "pages/slide-017.json"
+    }
+  }
+}
