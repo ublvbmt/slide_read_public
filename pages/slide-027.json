@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:27.642Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "29",
     "title": "我會如何用AI",
     "subtitle": "Case1:自動填寫",
-    "body": "情境:當你面對填基本資料時刻\n功能:解決繁瑣、制式的人工作業"
+    "body": "情境:當你面對填基本資料時刻\n功能:解決繁瑣、制式的人工作業",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "30",
       "path": "pages/slide-028.json"
     }
-  }
+  },
+  "contentHash": "572f9cfbc4921d5f71027c3e065d0ba5731b699ebe4ad17093440726dfbadb9d"
 }
