@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:15.322Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -10,23 +10,26 @@
     "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
     "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "sortOrder": 10,
-    "pageLabel": "10",
+    "pageLabel": "11",
     "title": "AI將會帶來什麼樣的未來",
     "subtitle": "",
-    "body": "AI的倫理議題  結婚與傷亡"
+    "body": "AI的倫理議題  結婚與傷亡",
+    "createdAt": "2026-08-23T14:31:28.971Z",
+    "updatedAt": "2026-08-27T15:34:27.252Z"
   },
   "navigation": {
     "previous": {
       "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "9",
+      "pageLabel": "10",
       "path": "pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json"
     },
     "next": {
       "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "11",
+      "pageLabel": "12",
       "path": "pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json"
     }
-  }
+  },
+  "contentHash": "b20dbdbdeab03daf88b4bdec96c81c32064a0f2f4c1acd19d249ab9914d7ee76"
 }
