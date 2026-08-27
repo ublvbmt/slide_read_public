@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:54.485Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "19",
     "title": "數位包容",
     "subtitle": "Left no one behind",
-    "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯"
+    "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "20",
       "path": "pages/slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab.json"
     }
-  }
+  },
+  "contentHash": "a6fe85935c5d08c76181fb15a3e1a3b609f67ec50e612b0303be838ed49a0c58"
 }
