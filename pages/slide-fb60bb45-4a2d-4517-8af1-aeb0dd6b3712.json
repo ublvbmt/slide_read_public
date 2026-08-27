@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:53.518Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "18",
     "title": "數位平權",
     "subtitle": "身心障礙者的需求亟需關注",
-    "body": "非身心障礙民眾：88.8% 身心障礙民眾：73.0% 落差 15.8%"
+    "body": "非身心障礙民眾：88.8% 身心障礙民眾：73.0% 落差 15.8%",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "19",
       "path": "pages/slide-94d68ac4-e34d-47a1-8d3c-fa166301c743.json"
     }
-  }
+  },
+  "contentHash": "3e1af8a04c704aebcfbcbdc5e48d564b0c4d0a7361d9af498c92f5655d3ad2b7"
 }
