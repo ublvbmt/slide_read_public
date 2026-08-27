@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:02.696Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "26",
     "title": "我會如何用AI",
     "subtitle": "Case5:做出好看實用的簡報",
-    "body": "情境:我們永遠都要做簡報、都要做圖卡\n\n功能:做出比別人更耳目一新的內容"
+    "body": "情境:我們永遠都要做簡報、都要做圖卡\n\n功能:做出比別人更耳目一新的內容",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "27",
       "path": "pages/slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9.json"
     }
-  }
+  },
+  "contentHash": "98d03b597a749fe68398fb9889181274cce44aa49413249258d408392ff29ac3"
 }
