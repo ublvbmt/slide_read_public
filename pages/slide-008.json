@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:03.346Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "8",
     "title": "政府運用 ICT",
     "subtitle": "數發部打造的基礎環境",
-    "body": "-T-Road\n-簡訊111平臺\n-Mydata\n-數位憑證皮夾"
+    "body": "-T-Road\n-簡訊111平臺\n-Mydata\n-數位憑證皮夾",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "9",
       "path": "pages/slide-009.json"
     }
-  }
+  },
+  "contentHash": "510b78565719397021aa6cf12555465f93235d9458d842313794df37cf7a2aa4"
 }
