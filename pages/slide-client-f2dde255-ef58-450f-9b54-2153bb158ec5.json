@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-27T17:37:57.250Z",
+  "generatedAt": "2026-08-27T17:42:55.160Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "",
     "body": "誰是誰的主人",
     "createdAt": "2026-08-23T14:31:16.371Z",
-    "updatedAt": "2026-08-27T17:37:30.234Z"
+    "updatedAt": "2026-08-27T17:42:37.407Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json"
     }
   },
-  "contentHash": "d9baa1d08d393cd79ae08d55d4b60bea8c4858de7bacf330ca47c67923e3bd02"
+  "contentHash": "9f76cb1295e416db1da780d6f24797815e3b67c2ba1be441cbde2fc917cd90fd"
 }
