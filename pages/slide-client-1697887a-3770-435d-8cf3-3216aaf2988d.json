@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:09.288Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,7 +13,9 @@
     "pageLabel": "5",
     "title": "AI全面佔領科研領域",
     "subtitle": "",
-    "body": "物理學#機器學習 #神經網路 #深度學習化學獎#AI準確預測蛋白質結構經濟學獎#AI對經濟社會影響 #AI技術變革與進步關係"
+    "body": "物理學#機器學習 #神經網路 #深度學習化學獎#AI準確預測蛋白質結構經濟學獎#AI對經濟社會影響 #AI技術變革與進步關係",
+    "createdAt": "2026-08-23T14:29:04.620Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "6",
       "path": "pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json"
     }
-  }
+  },
+  "contentHash": "2b707f9dde21352a659c5bba725ec15786284a417696f33aa1a196e23b950bea"
 }
