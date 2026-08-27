@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:30:56.674Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "2",
     "title": "你對於未來的想像是什麼",
     "subtitle": "-",
-    "body": "從2019年的想像跨越到2050的現實"
+    "body": "從2019年的想像跨越到2050的現實",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "3",
       "path": "pages/slide-003.json"
     }
-  }
+  },
+  "contentHash": "070a171661e8f3f87d2ac1d27680b0a365c9b2183a0bac04b081a6baea1f78f4"
 }
