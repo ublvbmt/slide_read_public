@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:45.509Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "11",
     "title": "我們是掌握數據還是被數據掌握",
     "subtitle": "Netflix",
-    "body": "如何精準投放，讓我們像獵物一樣被舒服的命中"
+    "body": "如何精準投放，讓我們像獵物一樣被舒服的命中",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "12",
       "path": "pages/slide-9ef654a4-64cc-41d2-964b-c3152056c20f.json"
     }
-  }
+  },
+  "contentHash": "1969f871d0aec78517e9aadcb3a4c100b50c6e9c5bc05277e75b7451a4961ed6"
 }
