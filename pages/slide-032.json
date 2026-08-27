@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:33.222Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "34",
     "title": "我會如何用AI",
     "subtitle": "Case6:我的第一個網頁跟程式",
-    "body": "情境:我想做個小網頁、小程式\n\n功能:增加易讀性，美觀性，擁有自主客製化的功能，打造人生的第一個自己寫的程式"
+    "body": "情境:我想做個小網頁、小程式\n\n功能:增加易讀性，美觀性，擁有自主客製化的功能，打造人生的第一個自己寫的程式",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -23,5 +25,6 @@
       "path": "pages/slide-031.json"
     },
     "next": null
-  }
+  },
+  "contentHash": "d8ec35d418f3d3f54051c682d71f4d155d767bd12c038330a3d0a7608dbb7507"
 }
