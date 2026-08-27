@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:17.454Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,13 +13,15 @@
     "pageLabel": "12",
     "title": "談到AI,你期待嗎 你害怕嗎",
     "subtitle": "AI的擬人犯罪",
-    "body": "GPT的越獄    vs  Anthropic的AI對殺"
+    "body": "GPT的越獄    vs  Anthropic的AI對殺",
+    "createdAt": "2026-08-23T14:32:59.579Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
       "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "11",
+      "pageLabel": "12",
       "path": "pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json"
     },
     "next": {
@@ -28,5 +30,6 @@
       "pageLabel": "13",
       "path": "pages/slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e.json"
     }
-  }
+  },
+  "contentHash": "daf14a16de6c516dfee548de60430671ba81755c54bc8a30d35a7877c580b0c2"
 }
