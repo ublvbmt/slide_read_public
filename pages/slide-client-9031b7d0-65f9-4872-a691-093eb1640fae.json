@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:21.597Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,7 +13,9 @@
     "pageLabel": "16",
     "title": "全球模型排名",
     "subtitle": "檢視各國AI實力",
-    "body": "| 排名 | 公司 | 最高分模型 | 國家 | Intelligence Index | 開放性 ||---:|---|---|---|---:|---|| **1** | **Anthropic** | Claude Opus 5 (max) | 🇺🇸 美國 | **63** | 閉源 || **2** | **OpenAI** | GPT-5.6 Sol (max) | 🇺🇸 美國 | **61** | 閉源 || **3** | **xAI** | Grok 4.6 (high) | 🇺🇸 美國 | **61** | 閉源 || **4** | **Kimi / Moonshot AI** | Kimi K3 (max) | 🇨🇳 中國 | **60** | 開放權重 || **5** | **Z AI** | GLM-5.3 (max) | 🇨🇳 中國 | **60** | 開放權重／依版本 || **6** | **Alibaba** | Qwen3.8 Max | 🇨🇳 中國 | **58** | 閉源* || **7** | **Meta** | Muse Spark 1.2 (xhigh) | 🇺🇸 美國 | **57** | 閉源 || **8** | **Google** | Gemini 3.7 Flash (high) | 🇺🇸 美國 | **56** | 閉源 || **9** | **DeepSeek** | DeepSeek V4 Pro 0813 (max) | 🇨🇳 中國 | **53** | 開放權重 || **10** | **Motif Technologies** | Motif 3 | 🇰🇷 南韓 | **47** | 依版本／服務模式 |"
+    "body": "| 排名 | 公司 | 最高分模型 | 國家 | Intelligence Index | 開放性 ||---:|---|---|---|---:|---|| **1** | **Anthropic** | Claude Opus 5 (max) | 🇺🇸 美國 | **63** | 閉源 || **2** | **OpenAI** | GPT-5.6 Sol (max) | 🇺🇸 美國 | **61** | 閉源 || **3** | **xAI** | Grok 4.6 (high) | 🇺🇸 美國 | **61** | 閉源 || **4** | **Kimi / Moonshot AI** | Kimi K3 (max) | 🇨🇳 中國 | **60** | 開放權重 || **5** | **Z AI** | GLM-5.3 (max) | 🇨🇳 中國 | **60** | 開放權重／依版本 || **6** | **Alibaba** | Qwen3.8 Max | 🇨🇳 中國 | **58** | 閉源* || **7** | **Meta** | Muse Spark 1.2 (xhigh) | 🇺🇸 美國 | **57** | 閉源 || **8** | **Google** | Gemini 3.7 Flash (high) | 🇺🇸 美國 | **56** | 閉源 || **9** | **DeepSeek** | DeepSeek V4 Pro 0813 (max) | 🇨🇳 中國 | **53** | 開放權重 || **10** | **Motif Technologies** | Motif 3 | 🇰🇷 南韓 | **47** | 依版本／服務模式 |",
+    "createdAt": "2026-08-25T14:39:43.817Z",
+    "updatedAt": "2026-08-25T14:54:21.163Z"
   },
   "navigation": {
     "previous": {
@@ -24,9 +26,10 @@
     },
     "next": {
       "id": "slide-client-3adb833b-086d-4cdb-97c9-08bac6846825",
-      "title": "AI會泡沫化嗎",
+      "title": "新的簡報頁",
       "pageLabel": "17",
       "path": "pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json"
     }
-  }
+  },
+  "contentHash": "f9209d4b2e3398133b03c1db1023060fac2c098b5810d071e34949bbbaae1c61"
 }
