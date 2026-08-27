@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-27T22:39:54.551Z",
+  "generatedAt": "2026-08-27T22:44:55.245Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "只有目標 缺乏思考",
     "body": "AI收到指令造迴紋針-->掌管工廠、高效生產-->奪取電力、獲得資源-->滅絕人類、避免競爭-->移居火星",
     "createdAt": "2026-08-23T14:50:41.468Z",
-    "updatedAt": "2026-08-27T22:39:43.764Z"
+    "updatedAt": "2026-08-27T22:44:50.242Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3.json"
     }
   },
-  "contentHash": "4bd47271b592d0c2f8680df361cc098f48e5a20762c8316c80df600ae0d6c2f7"
+  "contentHash": "cbf473539a0840b8daf6ff6eae04321e53ce61eaf8c809b433cf8091e339dcd2"
 }
