@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:57.684Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "22",
     "title": "智慧財產權",
     "subtitle": "3種你應該注意的權利義務",
-    "body": "我會侵權嗎?\n我能主張權利嗎?\n訓練模型有注意智慧財產權議題嗎?"
+    "body": "我會侵權嗎?\n我能主張權利嗎?\n訓練模型有注意智慧財產權議題嗎?",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "23",
       "path": "pages/slide-f8351e67-559e-4684-b80f-0c3ca6f92174.json"
     }
-  }
+  },
+  "contentHash": "2fe3741a816489d0c05121ed1b1c4a9a88d34af3dd5c8b4d0e5ad2b0266dc142"
 }
