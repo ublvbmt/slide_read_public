@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:11.683Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -10,10 +10,12 @@
     "id": "slide-client-edae71bc-10ee-49ba-9324-464a45df38d8",
     "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "sortOrder": 7,
-    "pageLabel": "7",
+    "pageLabel": "8",
     "title": "AI將會帶來什麼樣的未來",
     "subtitle": "",
-    "body": "機器人也瘋狂"
+    "body": "機器人也瘋狂",
+    "createdAt": "2026-08-23T14:30:39.604Z",
+    "updatedAt": "2026-08-27T15:34:26.474Z"
   },
   "navigation": {
     "previous": {
@@ -25,8 +27,9 @@
     "next": {
       "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "8",
+      "pageLabel": "9",
       "path": "pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json"
     }
-  }
+  },
+  "contentHash": "1c0092e7647c1d808062fd45215f12a8f4fac4445dee859de939d7fbafcc7d76"
 }
