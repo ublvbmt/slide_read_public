@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:14.542Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "18",
     "title": "掌握數據不是壞事",
     "subtitle": "我的e政府",
-    "body": "政府服務的百貨公司"
+    "body": "政府服務的百貨公司",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "19",
       "path": "pages/slide-017.json"
     }
-  }
+  },
+  "contentHash": "51e539ef6d35adaff44fa8889b19d8795b27ed8f23db5010c3da3522ec359c72"
 }
