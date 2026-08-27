@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.1",
-  "generatedAt": "2026-08-27T18:38:54.425Z",
-  "datasetHash": "5a3195585aac5e78ea7e5050e3bc4250ddfc2d66eec64b7d758ce4d3b7ed2eb7",
+  "generatedAt": "2026-08-27T18:39:55.022Z",
+  "datasetHash": "9e73794e49b6b7bd1f690c77570d17352b9aa5db43907d6c30759b6036f2f8bd",
   "topicCount": 3,
   "slideCount": 78,
   "topics": [
@@ -853,7 +853,7 @@
           "subtitle": "只有目標 缺乏思考",
           "body": "AI收到指令造迴紋針-->掌管工廠、高效生產-->奪取電力、獲得資源-->滅絕人類、避免競爭-->移居火星",
           "createdAt": "2026-08-23T14:50:41.468Z",
-          "updatedAt": "2026-08-27T18:33:47.563Z"
+          "updatedAt": "2026-08-27T18:38:54.152Z"
         },
         {
           "id": "slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3",
