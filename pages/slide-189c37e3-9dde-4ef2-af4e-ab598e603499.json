@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:01.393Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "25",
     "title": "我會如何用AI",
     "subtitle": "Case4:建立自動審查機制",
-    "body": "情境:當你要資料審查、使用過往的分析資訊時\n功能:自動歸納人為智慧及審查要點，輕鬆模擬人工審查"
+    "body": "情境:當你要資料審查、使用過往的分析資訊時\n功能:自動歸納人為智慧及審查要點，輕鬆模擬人工審查",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "26",
       "path": "pages/slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8.json"
     }
-  }
+  },
+  "contentHash": "a7e8c8bca222b497d0a80961687b1703fee5644eb54f19b74075bf52f6ed794a"
 }
