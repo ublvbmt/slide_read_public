@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:10.577Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,7 +13,9 @@
     "pageLabel": "6",
     "title": "AI人才大家搶",
     "subtitle": "",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T14:29:48.283Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -25,8 +27,9 @@
     "next": {
       "id": "slide-client-edae71bc-10ee-49ba-9324-464a45df38d8",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "7",
+      "pageLabel": "8",
       "path": "pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json"
     }
-  }
+  },
+  "contentHash": "c701760a48977dc12639c0eb5a1287b29148b73f53d7b9f0f92d9bfee0b63ca7"
 }
