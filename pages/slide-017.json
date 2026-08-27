@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:15.854Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "19",
     "title": "數位治理的第一步",
     "subtitle": "Know Your Customer",
-    "body": "數位機會調查:\n調查對象：台灣 22 縣市 12 歲以上民眾 調查方法：CATI 電腦輔助電話訪問 有效樣本：15,133 份 信賴水準：95%（抽樣誤差 ±0.8%）"
+    "body": "數位機會調查:\n調查對象：台灣 22 縣市 12 歲以上民眾 調查方法：CATI 電腦輔助電話訪問 有效樣本：15,133 份 信賴水準：95%（抽樣誤差 ±0.8%）",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "20",
       "path": "pages/slide-018.json"
     }
-  }
+  },
+  "contentHash": "c72a318cce1dd5940348e40d0101558b7a69c3ac3bed21a832716bc838a2763b"
 }
