@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-27T17:06:54.920Z",
+  "generatedAt": "2026-08-27T17:12:55.204Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "AI的新境界",
     "body": "腦機合作   智慧眼鏡",
     "createdAt": "2026-08-23T14:31:27.195Z",
-    "updatedAt": "2026-08-27T17:06:49.683Z"
+    "updatedAt": "2026-08-27T17:11:58.067Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json"
     }
   },
-  "contentHash": "453c08c2d41c49928f46f48b7efd5d6d7dfd7db6286d8349c8293a8aa38c0f13"
+  "contentHash": "3060d95e138c4567fbc21ad530868af95afab5a5cb2a0417dad81f6d8d5e86f1"
 }
