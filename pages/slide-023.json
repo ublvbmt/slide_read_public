@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:23.016Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "25",
     "title": "數位包容",
     "subtitle": "Left no one behind",
-    "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯"
+    "body": "科技始終服務於人性\n無障礙網頁\n口述影像\n手語視訊轉譯",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "26",
       "path": "pages/slide-024.json"
     }
-  }
+  },
+  "contentHash": "87438b0b43a5e32ecbdb011e776f7ba0214b53f83b2cc33a91dd1048e58e469d"
 }
