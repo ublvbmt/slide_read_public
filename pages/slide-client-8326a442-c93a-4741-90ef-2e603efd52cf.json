@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-27T19:40:54.711Z",
+  "generatedAt": "2026-08-27T19:45:55.240Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "",
     "body": "AI的倫理議題  結婚與傷亡",
     "createdAt": "2026-08-23T14:31:28.971Z",
-    "updatedAt": "2026-08-27T19:40:18.242Z"
+    "updatedAt": "2026-08-27T19:45:26.717Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json"
     }
   },
-  "contentHash": "2cbe6302846581705ba0dba81031fd68d79a651a19f06375cf6e05a11115577a"
+  "contentHash": "8bb80f33d89079844784bcb8ace0ebe58f0c5add0695b8a892db8497c1831612"
 }
