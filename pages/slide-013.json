@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:07.785Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "12",
     "title": "數據爆炸的時代",
     "subtitle": "",
-    "body": "用戶生成內容 181 Zettabytes"
+    "body": "用戶生成內容 181 Zettabytes",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "13",
       "path": "pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json"
     }
-  }
+  },
+  "contentHash": "f4968216ae9d04d741ba484a3f03dbe7e3bf01dadecf2fd8e50cc3395580c82e"
 }
