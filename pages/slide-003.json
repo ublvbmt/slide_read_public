@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:30:57.738Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "3",
     "title": "我們先來看看全球模範生",
     "subtitle": "愛沙尼亞:最徹底的數位王國",
-    "body": "愛沙尼亞:\n-全線上服務\n-x-Road\n-i-Voting\n-e-Residency"
+    "body": "愛沙尼亞:\n-全線上服務\n-x-Road\n-i-Voting\n-e-Residency",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "4",
       "path": "pages/slide-004.json"
     }
-  }
+  },
+  "contentHash": "4b04361e752f7aa8294487c24ac7ef9ed5c8efede003490c8ac0e91bb1031c54"
 }
