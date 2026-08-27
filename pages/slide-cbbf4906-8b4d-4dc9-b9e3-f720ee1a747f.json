@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:51.274Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "16",
     "title": "新住民力",
     "subtitle": "新住民上網率高於台灣平均",
-    "body": "新住民：98.1% 台灣平均：87.6%"
+    "body": "新住民：98.1% 台灣平均：87.6%",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "17",
       "path": "pages/slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91.json"
     }
-  }
+  },
+  "contentHash": "0bf1590d3d5eae0a494992d94fcf2834c63ea64f3a198f0cbe36a497f2eaa65f"
 }
