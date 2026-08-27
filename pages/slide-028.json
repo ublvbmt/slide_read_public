@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:28.765Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "30",
     "title": "我會如何用AI",
     "subtitle": "Case2:Canvas",
-    "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得"
+    "body": "情境:當你需要反覆修改文稿\n功能:自動調整文字，所見即所得",
+    "createdAt": "2026-08-23T10:00:09.683Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "31",
       "path": "pages/slide-029.json"
     }
-  }
+  },
+  "contentHash": "e914da27ec0e728781461ffa3e8bbeb777984176b82fd6424e7852906b6fcdc6"
 }
