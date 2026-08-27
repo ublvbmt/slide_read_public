@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:36.452Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "3",
     "title": "ㄉ",
     "subtitle": "",
-    "body": "WR ㄐ"
+    "body": "WR ㄐ",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "4",
       "path": "pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json"
     }
-  }
+  },
+  "contentHash": "bf726bc1e1fa7786f02ef2f100732725399bf5bab188a8039882faffe556e77e"
 }
