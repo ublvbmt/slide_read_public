@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:10.009Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:36:23.149Z",
   "topic": {
     "id": "topic-governance",
     "name": "智慧政府與數位治理",
@@ -13,7 +13,9 @@
     "pageLabel": "14",
     "title": "新的簡報頁",
     "subtitle": "",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T10:28:05.041Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "15",
       "path": "pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json"
     }
-  }
+  },
+  "contentHash": "b9b3369601f7cd931d9eb2f5eb49157f9bc70c70c1f1a0ef7d3ef55efdd6be1f"
 }
