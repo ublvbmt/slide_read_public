@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:16.332Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -10,16 +10,18 @@
     "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
     "topicId": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "sortOrder": 11,
-    "pageLabel": "11",
+    "pageLabel": "12",
     "title": "AI將會帶來什麼樣的未來",
     "subtitle": "AI的新境界",
-    "body": "腦機合作   智慧眼鏡"
+    "body": "腦機合作   智慧眼鏡",
+    "createdAt": "2026-08-23T14:31:27.195Z",
+    "updatedAt": "2026-08-27T15:34:27.493Z"
   },
   "navigation": {
     "previous": {
       "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
       "title": "AI將會帶來什麼樣的未來",
-      "pageLabel": "10",
+      "pageLabel": "11",
       "path": "pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json"
     },
     "next": {
@@ -28,5 +30,6 @@
       "pageLabel": "12",
       "path": "pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json"
     }
-  }
+  },
+  "contentHash": "e94940b7fc9a98865159211b05504dab8bd4e4581c4048b2f1bb9f7dd07c09f8"
 }
