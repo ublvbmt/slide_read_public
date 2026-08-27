@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:18.456Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,7 +13,9 @@
     "pageLabel": "13",
     "title": "GPT的獄越AI",
     "subtitle": "感受AI充滿人性的犯罪感",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T14:53:24.811Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -25,8 +27,9 @@
     "next": {
       "id": "slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0",
       "title": "迴紋針理論",
-      "pageLabel": "14",
+      "pageLabel": "13",
       "path": "pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json"
     }
-  }
+  },
+  "contentHash": "5c0ff11be1c78f00e67dd468672a53ae77b5b988f5a780ab2bab18ffb9ce8edd"
 }
