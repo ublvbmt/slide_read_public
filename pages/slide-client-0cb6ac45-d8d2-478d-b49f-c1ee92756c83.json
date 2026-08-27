@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:07.227Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,13 +13,15 @@
     "pageLabel": "3",
     "title": "你的AI競爭對手有多少?",
     "subtitle": "全球AI使用現況",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T14:24:53.915Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
       "id": "slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f",
       "title": "AI是如何運算的",
-      "pageLabel": "2",
+      "pageLabel": "3",
       "path": "pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json"
     },
     "next": {
@@ -28,5 +30,6 @@
       "pageLabel": "4",
       "path": "pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json"
     }
-  }
+  },
+  "contentHash": "62dd56d8a9cbce33eda6ea176e54650df9a09d4b89d33eff442f0cda22ccb37d"
 }
