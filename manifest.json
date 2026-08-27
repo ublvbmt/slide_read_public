@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.1",
-  "generatedAt": "2026-08-27T20:52:55.349Z",
-  "datasetHash": "3958aee1fcaabd732dd12e92bf034706c761bd09f0f7f2edc471e64a0d680cce",
+  "generatedAt": "2026-08-27T20:57:55.308Z",
+  "datasetHash": "bd3a60bd7363f49f04e87af3533c763873c0c64cb58a9be1cc140cd41005e2ae",
   "topicCount": 3,
   "slideCount": 78,
   "content": {
@@ -787,11 +787,11 @@
           "pageLabel": "3",
           "title": "AI是如何運算的",
           "subtitle": "",
-          "updatedAt": "2026-08-27T20:52:11.670Z",
+          "updatedAt": "2026-08-27T20:57:19.024Z",
           "path": "pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
-          "hash": "7294adefb93400e557ca20d5eebdc654f729bb37176d120a6d0d18fb42c22340"
+          "hash": "370072da2eb0096d724a40286030b57ce90f4f6be4badb8881414bbf2b3cc38d"
         },
         {
           "id": "slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83",
@@ -847,11 +847,11 @@
           "pageLabel": "8",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
-          "updatedAt": "2026-08-27T20:52:11.957Z",
+          "updatedAt": "2026-08-27T20:57:20.495Z",
           "path": "pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
-          "hash": "0c433583edffe363084c4b232dc7a0ce95bf39be783bc759d4d35a719a86456d"
+          "hash": "364c915c5d712f16e2c1275bcf021556eee5f1917ad5d74b29cd07ff5e5ae023"
         },
         {
           "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
@@ -859,11 +859,11 @@
           "pageLabel": "9",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
-          "updatedAt": "2026-08-27T20:52:12.186Z",
+          "updatedAt": "2026-08-27T20:57:20.732Z",
           "path": "pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
-          "hash": "b5d7304ce636db171c698b7c6efaa8762ddc459456e7408f72cbf1a3fcc2022e"
+          "hash": "59267bacaff55d0d437878634f0c0d50899d3d8bef3305bcc5df84b21d70ff4c"
         },
         {
           "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
@@ -871,11 +871,11 @@
           "pageLabel": "10",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
-          "updatedAt": "2026-08-27T20:52:12.384Z",
+          "updatedAt": "2026-08-27T20:57:21.061Z",
           "path": "pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
-          "hash": "4e611d006f4b61f81af3518eb16a237b5482688c10022d24ce1c74b7b6d23b73"
+          "hash": "b21c75dfe49aefe37dba8f0e068f0d08629a37a3cd9cfd74bd00a9be1c52c06f"
         },
         {
           "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
@@ -883,11 +883,11 @@
           "pageLabel": "11",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
-          "updatedAt": "2026-08-27T20:52:13.974Z",
+          "updatedAt": "2026-08-27T20:57:21.273Z",
           "path": "pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
-          "hash": "963fe81ffa29475cca46bd5d4be28c5b1ebffe840e97380b86e00afc8d7345f1"
+          "hash": "00b51f324b94e84392851c1a860e35ef6b31a159bd82efcd552b75a685b7e601"
         },
         {
           "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
@@ -895,11 +895,11 @@
           "pageLabel": "12",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "AI的新境界",
-          "updatedAt": "2026-08-27T20:52:14.176Z",
+          "updatedAt": "2026-08-27T20:57:21.476Z",
           "path": "pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
-          "hash": "e2d866baa2f49515183f377744dbd0e864e3fc3a48f2d335fd9b8281e49f5251"
+          "hash": "d45ef162ca8c4f7de6162414ec039c942c5c8d6bce45d9a1f5fea142a2d017c9"
         },
         {
           "id": "slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf",
@@ -931,11 +931,11 @@
           "pageLabel": "13",
           "title": "迴紋針理論",
           "subtitle": "只有目標 缺乏思考",
-          "updatedAt": "2026-08-27T20:52:14.361Z",
+          "updatedAt": "2026-08-27T20:57:21.678Z",
           "path": "pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
           "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
           "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
-          "hash": "973875660e9b4758ffce4960bc80704404ea4adce822bef2b84e97dd445b21c1"
+          "hash": "4d683317af4dd8b1baa122dcc5adce25a7324fc1b3e4c4e9b24947e108ad7623"
         },
         {
           "id": "slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3",
