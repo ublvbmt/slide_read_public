@@ -1,9 +1,19 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:33:17.120Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
+  "datasetHash": "1e0574dc33f9a526c598e3427fefc646c328733a96b1afb6acd43b3bd08f6a60",
   "topicCount": 3,
-  "slideCount": 79,
-  "content": "content.json",
+  "slideCount": 78,
+  "content": {
+    "path": "content.json",
+    "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/content.json",
+    "publicUrl": "https://ublvbmt.github.io/slide_read_public/content.json"
+  },
+  "manifest": {
+    "path": "manifest.json",
+    "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/manifest.json",
+    "publicUrl": "https://ublvbmt.github.io/slide_read_public/manifest.json"
+  },
   "topics": [
     {
       "id": "topic-governance",
@@ -17,8 +27,11 @@
           "pageLabel": "1",
           "title": "課程大綱",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-001.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-001.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-001.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-001.json",
+          "hash": "820edc52088de18f9ab6ecedda26ad777c0b1d3f0c975cd452ad8c090bfa918c"
         },
         {
           "id": "slide-002",
@@ -26,8 +39,11 @@
           "pageLabel": "2",
           "title": "你對於未來的想像是什麼",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-002.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-002.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-002.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-002.json",
+          "hash": "070a171661e8f3f87d2ac1d27680b0a365c9b2183a0bac04b081a6baea1f78f4"
         },
         {
           "id": "slide-003",
@@ -35,8 +51,11 @@
           "pageLabel": "3",
           "title": "我們先來看看全球模範生",
           "subtitle": "愛沙尼亞:最徹底的數位王國",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-003.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-003.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-003.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-003.json",
+          "hash": "4b04361e752f7aa8294487c24ac7ef9ed5c8efede003490c8ac0e91bb1031c54"
         },
         {
           "id": "slide-004",
@@ -44,8 +63,11 @@
           "pageLabel": "4",
           "title": "我們先來看看全球模範生",
           "subtitle": "新加坡:以民為本的智慧獅城",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-004.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-004.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-004.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-004.json",
+          "hash": "9ae78fa9c758097a7084b9cd292049261435a94da50373908a3b565d7bcb66de"
         },
         {
           "id": "slide-005",
@@ -53,8 +75,11 @@
           "pageLabel": "5",
           "title": "什麼是智慧政府?",
           "subtitle": "數位治理是智慧政府的基礎與實踐手段\n\n智慧政府則是數位治理追求的進階目標",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-005.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-005.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-005.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-005.json",
+          "hash": "ebd8f7a6d62e87e8d6e4e21866c77272418b56c4933c11a62377019323566156"
         },
         {
           "id": "slide-006",
@@ -62,8 +87,11 @@
           "pageLabel": "6",
           "title": "是什麼加速了數位治理的重要性...或是難度?",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-006.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-006.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-006.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-006.json",
+          "hash": "a15af31f71bca068b081e2e2447ddd49e80e98c071d2c2a8a3192ff1124e7be1"
         },
         {
           "id": "slide-007",
@@ -71,8 +99,11 @@
           "pageLabel": "7",
           "title": "何謂好的數位治理",
           "subtitle": "我們來看看聯合國的定義",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-007.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-007.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-007.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-007.json",
+          "hash": "73d11e4c48b4bcc0ba8e62123d9160b72a9fceb631efcaa41838f2de62480d4b"
         },
         {
           "id": "slide-008",
@@ -80,8 +111,11 @@
           "pageLabel": "8",
           "title": "政府運用 ICT",
           "subtitle": "數發部打造的基礎環境",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-008.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-008.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-008.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-008.json",
+          "hash": "510b78565719397021aa6cf12555465f93235d9458d842313794df37cf7a2aa4"
         },
         {
           "id": "slide-009",
@@ -89,8 +123,11 @@
           "pageLabel": "9",
           "title": "改善服務品質",
           "subtitle": "多元領取管道 × 智慧分流 × 防詐防偽",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-009.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-009.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-009.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-009.json",
+          "hash": "52b341cfebdd0be69ec1b56ef9efcea0e76e2a5bf6a22790f8731322164a2f51"
         },
         {
           "id": "slide-011",
@@ -98,8 +135,11 @@
           "pageLabel": "10",
           "title": "優化治理維度",
           "subtitle": "透明\n效率\n課責",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-011.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-011.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-011.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-011.json",
+          "hash": "898e767eeb88ea54fa00fe273f6cfe76849f2ecf649cbe0f3188638971fd35bc"
         },
         {
           "id": "slide-012",
@@ -107,8 +147,11 @@
           "pageLabel": "11",
           "title": "促進公民參與",
           "subtitle": "Join平臺",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-012.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-012.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-012.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-012.json",
+          "hash": "094107b6566201a94038854647333ed80ad2719b67acf2d7aaea4ee9d8714b42"
         },
         {
           "id": "slide-013",
@@ -116,8 +159,11 @@
           "pageLabel": "12",
           "title": "數據爆炸的時代",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-013.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-013.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-013.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-013.json",
+          "hash": "f4968216ae9d04d741ba484a3f03dbe7e3bf01dadecf2fd8e50cc3395580c82e"
         },
         {
           "id": "slide-9a36957a-926f-4be6-90cc-a4941b160d91",
@@ -125,8 +171,11 @@
           "pageLabel": "13",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-9a36957a-926f-4be6-90cc-a4941b160d91.json",
+          "hash": "a91b8444c8db5d4d32357960f1182d41f7cc8089a5d67a111ab0a1a21bfefdd6"
         },
         {
           "id": "slide-e44b50d5-f80e-4e7c-9350-243001a6d266",
@@ -134,8 +183,11 @@
           "pageLabel": "14",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-e44b50d5-f80e-4e7c-9350-243001a6d266.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-e44b50d5-f80e-4e7c-9350-243001a6d266.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-e44b50d5-f80e-4e7c-9350-243001a6d266.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-e44b50d5-f80e-4e7c-9350-243001a6d266.json",
+          "hash": "b9b3369601f7cd931d9eb2f5eb49157f9bc70c70c1f1a0ef7d3ef55efdd6be1f"
         },
         {
           "id": "slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0",
@@ -143,8 +195,11 @@
           "pageLabel": "15",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-ce377674-f8ca-45d0-ac03-3edd0aa0c1b0.json",
+          "hash": "67d6a673f34fd8d8eb80acb214d9deef9ca211c48f8a135cb6bd5e64f4f9f69e"
         },
         {
           "id": "slide-014",
@@ -152,8 +207,11 @@
           "pageLabel": "16",
           "title": "我們是掌握數據還是被數據掌握",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-014.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-014.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-014.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-014.json",
+          "hash": "6cb4f26c102f53493ac6ca1eb28b62a392212bea9434e899792fba893022ee1c"
         },
         {
           "id": "slide-015",
@@ -161,8 +219,11 @@
           "pageLabel": "17",
           "title": "我們是掌握數據還是被數據掌握",
           "subtitle": "Netflix",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-015.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-015.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-015.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-015.json",
+          "hash": "717061e31464b314671070d4af7fdb59c5fc8ef6e021a018281b4f399daabb16"
         },
         {
           "id": "slide-016",
@@ -170,8 +231,11 @@
           "pageLabel": "18",
           "title": "掌握數據不是壞事",
           "subtitle": "我的e政府",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-016.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-016.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-016.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-016.json",
+          "hash": "51e539ef6d35adaff44fa8889b19d8795b27ed8f23db5010c3da3522ec359c72"
         },
         {
           "id": "slide-017",
@@ -179,8 +243,11 @@
           "pageLabel": "19",
           "title": "數位治理的第一步",
           "subtitle": "Know Your Customer",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-017.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-017.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-017.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-017.json",
+          "hash": "c72a318cce1dd5940348e40d0101558b7a69c3ac3bed21a832716bc838a2763b"
         },
         {
           "id": "slide-018",
@@ -188,8 +255,11 @@
           "pageLabel": "20",
           "title": "測試一下你的數位直覺",
           "subtitle": "請拿起你的手機",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-018.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-018.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-018.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-018.json",
+          "hash": "53f0bd89c60aaba8a6c4abd41ba4f223f89cf8592074e99b7af699db4bb4dace"
         },
         {
           "id": "slide-019",
@@ -197,8 +267,11 @@
           "pageLabel": "21",
           "title": "年齡（上網率）",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-019.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-019.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-019.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-019.json",
+          "hash": "064551c3e45a4340d96cb59f79d7cfa322f0b56d0b118b581d7a439144844e65"
         },
         {
           "id": "slide-020",
@@ -206,8 +279,11 @@
           "pageLabel": "22",
           "title": "新住民力",
           "subtitle": "新住民上網率高於台灣平均",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-020.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-020.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-020.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-020.json",
+          "hash": "cf4e740913a663dec3f01a0c352742789a0fef3dfbe6ff39d09b8564944c02b2"
         },
         {
           "id": "slide-021",
@@ -215,8 +291,11 @@
           "pageLabel": "23",
           "title": "各縣市上網率（依縣市分）",
           "subtitle": "不同縣市，普及率各具差異",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-021.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-021.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-021.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-021.json",
+          "hash": "9e217008b0952ae3abd504d6539e9d9928d78123392c5a3039c35d74cb53607c"
         },
         {
           "id": "slide-022",
@@ -224,8 +303,11 @@
           "pageLabel": "24",
           "title": "數位平權",
           "subtitle": "身心障礙者的需求亟需關注",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-022.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-022.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-022.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-022.json",
+          "hash": "a865fdafac455d8e07472f999b9c343a3fbf8b55f540b55b127307db3988a490"
         },
         {
           "id": "slide-023",
@@ -233,8 +315,11 @@
           "pageLabel": "25",
           "title": "數位包容",
           "subtitle": "Left no one behind",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-023.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-023.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-023.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-023.json",
+          "hash": "87438b0b43a5e32ecbdb011e776f7ba0214b53f83b2cc33a91dd1048e58e469d"
         },
         {
           "id": "slide-024",
@@ -242,8 +327,11 @@
           "pageLabel": "26",
           "title": "智慧政府發展的近程",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-024.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-024.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-024.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-024.json",
+          "hash": "4b28cf488604db954ffd1e751c629f226fb6354858a6f2a107fb1431bb71fb70"
         },
         {
           "id": "slide-025",
@@ -251,8 +339,11 @@
           "pageLabel": "27",
           "title": "數發部如何推動AI世代智慧政府",
           "subtitle": "五層蛋糕",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-025.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-025.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-025.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-025.json",
+          "hash": "3f1a28341251ab08d692a70fe8d580b6805989481f16a5f417f9e1597ce69834"
         },
         {
           "id": "slide-026",
@@ -260,8 +351,11 @@
           "pageLabel": "28",
           "title": "智慧財產權",
           "subtitle": "3種你應該注意的權利義務",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-026.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-026.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-026.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-026.json",
+          "hash": "efb5646a9f6a6e150778ea67d1aad937ccb0fab70a0e5e6866cff2a92a88bb7d"
         },
         {
           "id": "slide-027",
@@ -269,8 +363,11 @@
           "pageLabel": "29",
           "title": "我會如何用AI",
           "subtitle": "Case1:自動填寫",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-027.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-027.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-027.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-027.json",
+          "hash": "572f9cfbc4921d5f71027c3e065d0ba5731b699ebe4ad17093440726dfbadb9d"
         },
         {
           "id": "slide-028",
@@ -278,8 +375,11 @@
           "pageLabel": "30",
           "title": "我會如何用AI",
           "subtitle": "Case2:Canvas",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-028.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-028.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-028.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-028.json",
+          "hash": "e914da27ec0e728781461ffa3e8bbeb777984176b82fd6424e7852906b6fcdc6"
         },
         {
           "id": "slide-029",
@@ -287,8 +387,11 @@
           "pageLabel": "31",
           "title": "我會如何用AI",
           "subtitle": "Case3:一鍵完成文稿",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-029.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-029.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-029.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-029.json",
+          "hash": "ba60babbb0849c2a20dfcfd9667ac14ef4aaf7d2c3ffaeac1e5bdbc2b6259272"
         },
         {
           "id": "slide-030",
@@ -296,8 +399,11 @@
           "pageLabel": "32",
           "title": "我會如何用AI",
           "subtitle": "Case4:建立自動審查機制",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-030.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-030.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-030.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-030.json",
+          "hash": "cd5b95ad00f8397ed4b05bd8f62a586e85fc64c2aa91e4ace5f9e7b119790f83"
         },
         {
           "id": "slide-031",
@@ -305,8 +411,11 @@
           "pageLabel": "33",
           "title": "我會如何用AI",
           "subtitle": "Case5:做出好看實用的簡報",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-031.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-031.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-031.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-031.json",
+          "hash": "965bcb4525112c4457bc3e83974297dc26c8da6e0da09181a10395a7fb7bb360"
         },
         {
           "id": "slide-032",
@@ -314,8 +423,11 @@
           "pageLabel": "34",
           "title": "我會如何用AI",
           "subtitle": "Case6:我的第一個網頁跟程式",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-032.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-032.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-032.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-032.json",
+          "hash": "d8ec35d418f3d3f54051c682d71f4d155d767bd12c038330a3d0a7608dbb7507"
         }
       ]
     },
@@ -331,8 +443,11 @@
           "pageLabel": "1",
           "title": "課程大綱",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-4b10e594-2119-45e1-9459-e227ba843f1c.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-4b10e594-2119-45e1-9459-e227ba843f1c.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-4b10e594-2119-45e1-9459-e227ba843f1c.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-4b10e594-2119-45e1-9459-e227ba843f1c.json",
+          "hash": "aa576d6064afbf853559b9566dc6c753f1282d82f23670982067fe8710ab0ea6"
         },
         {
           "id": "slide-cb6c376f-6848-4449-9bbe-4283c5b16465",
@@ -340,8 +455,11 @@
           "pageLabel": "2",
           "title": "改善服務品質",
           "subtitle": "多元領取管道 × 智慧分流 × 防詐防偽",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-cb6c376f-6848-4449-9bbe-4283c5b16465.json",
+          "hash": "99d34602d0608fa6e3a58afeec56dd0c3c8e181f3873bb56364a168aa62468b9"
         },
         {
           "id": "slide-53114b03-3dda-44c0-924b-8b19c406c14b",
@@ -349,8 +467,11 @@
           "pageLabel": "3",
           "title": "ㄉ",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-53114b03-3dda-44c0-924b-8b19c406c14b.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-53114b03-3dda-44c0-924b-8b19c406c14b.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-53114b03-3dda-44c0-924b-8b19c406c14b.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-53114b03-3dda-44c0-924b-8b19c406c14b.json",
+          "hash": "bf726bc1e1fa7786f02ef2f100732725399bf5bab188a8039882faffe556e77e"
         },
         {
           "id": "slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4",
@@ -358,8 +479,11 @@
           "pageLabel": "4",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-fc759362-35bf-4180-a0d8-4f4ed4b551e4.json",
+          "hash": "aaeef9ba43fb745ef4632e0f608776f45736f2e2243f614fe0e6d96bb81b4b96"
         },
         {
           "id": "slide-5f973634-fdbf-4ef4-ae15-af5816383569",
@@ -367,8 +491,11 @@
           "pageLabel": "5",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-5f973634-fdbf-4ef4-ae15-af5816383569.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-5f973634-fdbf-4ef4-ae15-af5816383569.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-5f973634-fdbf-4ef4-ae15-af5816383569.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-5f973634-fdbf-4ef4-ae15-af5816383569.json",
+          "hash": "5c1e50bc036d351053d263341d7e47267a0bbd80f5867cdcbbee735d561ac8f2"
         },
         {
           "id": "slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5",
@@ -376,8 +503,11 @@
           "pageLabel": "6",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-54d91d7f-618a-4800-a92f-5bfd33dd30b5.json",
+          "hash": "7e4102bf63938b984ef8ed4345a6d7c18aa6480f7e5cf8a0235be3939b59219f"
         },
         {
           "id": "slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85",
@@ -385,8 +515,11 @@
           "pageLabel": "7",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-8a16c6c3-ddf6-4442-824e-86c1ed406d85.json",
+          "hash": "e5448642e984795e62f5fa95ca55abbf4269aeea951dfe24fbf2568617ab932c"
         },
         {
           "id": "slide-68d27e3a-cb34-40da-a421-8378e80d9daf",
@@ -394,8 +527,11 @@
           "pageLabel": "8",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-68d27e3a-cb34-40da-a421-8378e80d9daf.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-68d27e3a-cb34-40da-a421-8378e80d9daf.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-68d27e3a-cb34-40da-a421-8378e80d9daf.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-68d27e3a-cb34-40da-a421-8378e80d9daf.json",
+          "hash": "6f1558f1908a7495da0d25433185d467b2a1ed50c184a653f49733cd9aac7461"
         },
         {
           "id": "slide-2bcfb72d-db47-4d9e-980a-0b337ae00177",
@@ -403,8 +539,11 @@
           "pageLabel": "9",
           "title": "新的簡報頁",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-2bcfb72d-db47-4d9e-980a-0b337ae00177.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2bcfb72d-db47-4d9e-980a-0b337ae00177.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2bcfb72d-db47-4d9e-980a-0b337ae00177.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-2bcfb72d-db47-4d9e-980a-0b337ae00177.json",
+          "hash": "fe777a8b97ef352c932937a5e44300c5183d16fc16b5e870a30d5900e9ace75d"
         },
         {
           "id": "slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc",
@@ -412,8 +551,11 @@
           "pageLabel": "10",
           "title": "我們是掌握數據還是被數據掌握",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-9f4e990b-2027-44e2-9745-7e5dbeefbefc.json",
+          "hash": "9208c5b1410e9f207cad5a18700d5d62b069b5d07bfdb13b10de874df1b52a11"
         },
         {
           "id": "slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3",
@@ -421,8 +563,11 @@
           "pageLabel": "11",
           "title": "我們是掌握數據還是被數據掌握",
           "subtitle": "Netflix",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-2c8f4c74-3b7c-4db0-8050-8fcea968dce3.json",
+          "hash": "1969f871d0aec78517e9aadcb3a4c100b50c6e9c5bc05277e75b7451a4961ed6"
         },
         {
           "id": "slide-9ef654a4-64cc-41d2-964b-c3152056c20f",
@@ -430,8 +575,11 @@
           "pageLabel": "12",
           "title": "掌握數據不是壞事",
           "subtitle": "我的e政府",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-9ef654a4-64cc-41d2-964b-c3152056c20f.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9ef654a4-64cc-41d2-964b-c3152056c20f.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-9ef654a4-64cc-41d2-964b-c3152056c20f.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-9ef654a4-64cc-41d2-964b-c3152056c20f.json",
+          "hash": "de7a8a9fb8a738d9e9cf3ee592abb07abd6d6b1a5892acd3149819eba22a5f53"
         },
         {
           "id": "slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11",
@@ -439,8 +587,11 @@
           "pageLabel": "13",
           "title": "數位治理的第一步",
           "subtitle": "Know Your Customer",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-d85a9b89-fddf-46a3-b4cb-22c8e27c4e11.json",
+          "hash": "31f821aed5e12d6c07e4da690b6510c713f90acafbded1a8fdd91a92bf234c2b"
         },
         {
           "id": "slide-dd272255-5225-491d-b2d6-046f43179f95",
@@ -448,8 +599,11 @@
           "pageLabel": "14",
           "title": "測試一下你的數位直覺",
           "subtitle": "請拿起你的手機",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-dd272255-5225-491d-b2d6-046f43179f95.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-dd272255-5225-491d-b2d6-046f43179f95.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-dd272255-5225-491d-b2d6-046f43179f95.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-dd272255-5225-491d-b2d6-046f43179f95.json",
+          "hash": "55a6184279cd51ed0e3bf5a97e33a3e9122e241e8bbc1d4a5d5829d994da7737"
         },
         {
           "id": "slide-96d08392-7532-42e0-9bbb-85cdd173e08d",
@@ -457,8 +611,11 @@
           "pageLabel": "15",
           "title": "年齡（上網率）",
           "subtitle": "-",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-96d08392-7532-42e0-9bbb-85cdd173e08d.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-96d08392-7532-42e0-9bbb-85cdd173e08d.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-96d08392-7532-42e0-9bbb-85cdd173e08d.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-96d08392-7532-42e0-9bbb-85cdd173e08d.json",
+          "hash": "85a657034aa1c2abb4167451ebc54605a1710604d7ddd3610d998d28e7d2ba09"
         },
         {
           "id": "slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f",
@@ -466,8 +623,11 @@
           "pageLabel": "16",
           "title": "新住民力",
           "subtitle": "新住民上網率高於台灣平均",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-cbbf4906-8b4d-4dc9-b9e3-f720ee1a747f.json",
+          "hash": "0bf1590d3d5eae0a494992d94fcf2834c63ea64f3a198f0cbe36a497f2eaa65f"
         },
         {
           "id": "slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91",
@@ -475,8 +635,11 @@
           "pageLabel": "17",
           "title": "各縣市上網率（依縣市分）",
           "subtitle": "不同縣市，普及率各具差異",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-46922ce0-db75-43f3-9bee-4f48ee3b7d91.json",
+          "hash": "ae5ade0a7cd79bab09728d41958e83d4e7c9c46d044eb0df14107a12cfed3dc7"
         },
         {
           "id": "slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712",
@@ -484,8 +647,11 @@
           "pageLabel": "18",
           "title": "數位平權",
           "subtitle": "身心障礙者的需求亟需關注",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-fb60bb45-4a2d-4517-8af1-aeb0dd6b3712.json",
+          "hash": "3e1af8a04c704aebcfbcbdc5e48d564b0c4d0a7361d9af498c92f5655d3ad2b7"
         },
         {
           "id": "slide-94d68ac4-e34d-47a1-8d3c-fa166301c743",
@@ -493,8 +659,11 @@
           "pageLabel": "19",
           "title": "數位包容",
           "subtitle": "Left no one behind",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-94d68ac4-e34d-47a1-8d3c-fa166301c743.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-94d68ac4-e34d-47a1-8d3c-fa166301c743.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-94d68ac4-e34d-47a1-8d3c-fa166301c743.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-94d68ac4-e34d-47a1-8d3c-fa166301c743.json",
+          "hash": "a6fe85935c5d08c76181fb15a3e1a3b609f67ec50e612b0303be838ed49a0c58"
         },
         {
           "id": "slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab",
@@ -502,8 +671,11 @@
           "pageLabel": "20",
           "title": "智慧政府發展的近程",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-3e894c07-f75a-4eda-9a96-a3b6ba471bab.json",
+          "hash": "c08f22a3c96a24d2620ee44cca1f85e9a1c2386b5775c3f234a3fa4e6a84fb08"
         },
         {
           "id": "slide-82552774-a4d4-4f9c-97bc-c998475a7864",
@@ -511,8 +683,11 @@
           "pageLabel": "21",
           "title": "數發部如何推動AI世代智慧政府",
           "subtitle": "五層蛋糕",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-82552774-a4d4-4f9c-97bc-c998475a7864.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-82552774-a4d4-4f9c-97bc-c998475a7864.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-82552774-a4d4-4f9c-97bc-c998475a7864.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-82552774-a4d4-4f9c-97bc-c998475a7864.json",
+          "hash": "2f3c71fc5fa319fb448af68532073a2665a54f536bf48b8219f5229ad47cf59b"
         },
         {
           "id": "slide-827d05eb-e002-43ea-91e8-6837590fb13a",
@@ -520,8 +695,11 @@
           "pageLabel": "22",
           "title": "智慧財產權",
           "subtitle": "3種你應該注意的權利義務",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json",
+          "hash": "2fe3741a816489d0c05121ed1b1c4a9a88d34af3dd5c8b4d0e5ad2b0266dc142"
         },
         {
           "id": "slide-f8351e67-559e-4684-b80f-0c3ca6f92174",
@@ -529,8 +707,11 @@
           "pageLabel": "23",
           "title": "我會如何用AI",
           "subtitle": "Case2:Canvas",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-f8351e67-559e-4684-b80f-0c3ca6f92174.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-f8351e67-559e-4684-b80f-0c3ca6f92174.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-f8351e67-559e-4684-b80f-0c3ca6f92174.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-f8351e67-559e-4684-b80f-0c3ca6f92174.json",
+          "hash": "114201de42c016d4af6c1496f04d5b81df3df933926a5609146c3104914169d0"
         },
         {
           "id": "slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb",
@@ -538,8 +719,11 @@
           "pageLabel": "24",
           "title": "我會如何用AI",
           "subtitle": "Case3:一鍵完成文稿",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-505dffd5-63a6-495c-ac65-3368e7a3b8eb.json",
+          "hash": "51fac8d3a90275ca862139ba1dece769514437befb77b69b2fd8103f087aa055"
         },
         {
           "id": "slide-189c37e3-9dde-4ef2-af4e-ab598e603499",
@@ -547,8 +731,11 @@
           "pageLabel": "25",
           "title": "我會如何用AI",
           "subtitle": "Case4:建立自動審查機制",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-189c37e3-9dde-4ef2-af4e-ab598e603499.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-189c37e3-9dde-4ef2-af4e-ab598e603499.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-189c37e3-9dde-4ef2-af4e-ab598e603499.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-189c37e3-9dde-4ef2-af4e-ab598e603499.json",
+          "hash": "a7e8c8bca222b497d0a80961687b1703fee5644eb54f19b74075bf52f6ed794a"
         },
         {
           "id": "slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8",
@@ -556,8 +743,11 @@
           "pageLabel": "26",
           "title": "我會如何用AI",
           "subtitle": "Case5:做出好看實用的簡報",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-60ad3d2f-bcbe-400a-b0e6-5bf205a884e8.json",
+          "hash": "98d03b597a749fe68398fb9889181274cce44aa49413249258d408392ff29ac3"
         },
         {
           "id": "slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9",
@@ -565,8 +755,11 @@
           "pageLabel": "27",
           "title": "我會如何用AI",
           "subtitle": "Case6:我的第一個網頁跟程式",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-2e54daf1-0b6c-425c-95b5-d0de868c7ae9.json",
+          "hash": "617419b473c2037d8aa230e00c1d9d4f637bb0994437b697acc5acee3d4b92b1"
         }
       ]
     },
@@ -574,7 +767,7 @@
       "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
       "name": "AI原理趨勢與創新應用",
       "sortOrder": 3,
-      "slideCount": 18,
+      "slideCount": 17,
       "slides": [
         {
           "id": "slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e",
@@ -582,17 +775,23 @@
           "pageLabel": "1",
           "title": "AI是如何訓練的",
           "subtitle": "空間空量儲存",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-295a3222-0806-4eb9-a5bf-250d14cc787e.json",
+          "hash": "e82c19f15cc3d3fd0125c616e2ae2814ad77f8b3c417b2d2fd942d3dd210c360"
         },
         {
           "id": "slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f",
           "sortOrder": 2,
-          "pageLabel": "2",
+          "pageLabel": "3",
           "title": "AI是如何運算的",
           "subtitle": "",
+          "updatedAt": "2026-08-27T15:34:26.227Z",
           "path": "pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-e624a724-d4fa-4d0a-b49c-261db81b497f.json",
+          "hash": "9dd9b97846cd177c63cee2e023447b224cfd3f38f58733cc4d419c4beddaeb0a"
         },
         {
           "id": "slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83",
@@ -600,8 +799,11 @@
           "pageLabel": "3",
           "title": "你的AI競爭對手有多少?",
           "subtitle": "全球AI使用現況",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json",
+          "hash": "62dd56d8a9cbce33eda6ea176e54650df9a09d4b89d33eff442f0cda22ccb37d"
         },
         {
           "id": "slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335",
@@ -609,8 +811,11 @@
           "pageLabel": "4",
           "title": "AI賺錢也燒錢",
           "subtitle": "全球資本大量投入，量變帶來質變",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-fb2ed6cf-620a-4d3f-a8f5-6c70f8fad335.json",
+          "hash": "39a249fce063cb8305f9c8257e899c014ea2051c9c863706aebd59b3c7e7eb09"
         },
         {
           "id": "slide-client-1697887a-3770-435d-8cf3-3216aaf2988d",
@@ -618,8 +823,11 @@
           "pageLabel": "5",
           "title": "AI全面佔領科研領域",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json",
+          "hash": "2b707f9dde21352a659c5bba725ec15786284a417696f33aa1a196e23b950bea"
         },
         {
           "id": "slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31",
@@ -627,53 +835,71 @@
           "pageLabel": "6",
           "title": "AI人才大家搶",
           "subtitle": "",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-3f9ccbc6-e158-4923-9731-fa78512e7e31.json",
+          "hash": "c701760a48977dc12639c0eb5a1287b29148b73f53d7b9f0f92d9bfee0b63ca7"
         },
         {
           "id": "slide-client-edae71bc-10ee-49ba-9324-464a45df38d8",
           "sortOrder": 7,
-          "pageLabel": "7",
+          "pageLabel": "8",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
+          "updatedAt": "2026-08-27T15:34:26.474Z",
           "path": "pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-edae71bc-10ee-49ba-9324-464a45df38d8.json",
+          "hash": "1c0092e7647c1d808062fd45215f12a8f4fac4445dee859de939d7fbafcc7d76"
         },
         {
           "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
           "sortOrder": 8,
-          "pageLabel": "8",
+          "pageLabel": "9",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
+          "updatedAt": "2026-08-27T15:34:26.706Z",
           "path": "pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json",
+          "hash": "ee5d1663f4eac09c5daebe92b6db66e08ebc2ac149e09259682dc6e04076e559"
         },
         {
           "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
           "sortOrder": 9,
-          "pageLabel": "9",
+          "pageLabel": "10",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
+          "updatedAt": "2026-08-27T15:34:26.988Z",
           "path": "pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json",
+          "hash": "f3ba88e0a58cecba8ac33183f5d1c748b8bd1d2c602a71ed875d76fc31015693"
         },
         {
           "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
           "sortOrder": 10,
-          "pageLabel": "10",
+          "pageLabel": "11",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "",
+          "updatedAt": "2026-08-27T15:34:27.252Z",
           "path": "pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-8326a442-c93a-4741-90ef-2e603efd52cf.json",
+          "hash": "b20dbdbdeab03daf88b4bdec96c81c32064a0f2f4c1acd19d249ab9914d7ee76"
         },
         {
           "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
           "sortOrder": 11,
-          "pageLabel": "11",
+          "pageLabel": "12",
           "title": "AI將會帶來什麼樣的未來",
           "subtitle": "AI的新境界",
+          "updatedAt": "2026-08-27T15:34:27.493Z",
           "path": "pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-54698a56-2d37-407e-ab08-8a188bd7c651.json",
+          "hash": "e94940b7fc9a98865159211b05504dab8bd4e4581c4048b2f1bb9f7dd07c09f8"
         },
         {
           "id": "slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf",
@@ -681,8 +907,11 @@
           "pageLabel": "12",
           "title": "談到AI,你期待嗎 你害怕嗎",
           "subtitle": "AI的擬人犯罪",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf.json",
+          "hash": "daf14a16de6c516dfee548de60430671ba81755c54bc8a30d35a7877c580b0c2"
         },
         {
           "id": "slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e",
@@ -690,17 +919,23 @@
           "pageLabel": "13",
           "title": "GPT的獄越AI",
           "subtitle": "感受AI充滿人性的犯罪感",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-2df73b69-5d28-46de-9e12-8d6ab519189e.json",
+          "hash": "5c0ff11be1c78f00e67dd468672a53ae77b5b988f5a780ab2bab18ffb9ce8edd"
         },
         {
           "id": "slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0",
           "sortOrder": 14,
-          "pageLabel": "14",
+          "pageLabel": "13",
           "title": "迴紋針理論",
           "subtitle": "只有目標 缺乏思考",
+          "updatedAt": "2026-08-27T15:34:27.703Z",
           "path": "pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-47428da2-4068-43c5-b574-7fe644ab5cc0.json",
+          "hash": "106709a2dfd6ff8c6293111b0f411d0b05cefa55bb1143242f281078f8fd1ddc"
         },
         {
           "id": "slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3",
@@ -708,8 +943,11 @@
           "pageLabel": "15",
           "title": "開源與閉源之爭",
           "subtitle": "AI模型的二大門派",
+          "updatedAt": "2026-08-25T14:54:16.521Z",
           "path": "pages/slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3.json",
+          "hash": "672cec04ee2778d7c4c142d5653b3232a08dbbd1c9d90c35f26ff02f33e1815c"
         },
         {
           "id": "slide-client-9031b7d0-65f9-4872-a691-093eb1640fae",
@@ -717,26 +955,23 @@
           "pageLabel": "16",
           "title": "全球模型排名",
           "subtitle": "檢視各國AI實力",
+          "updatedAt": "2026-08-25T14:54:21.163Z",
           "path": "pages/slide-client-9031b7d0-65f9-4872-a691-093eb1640fae.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-9031b7d0-65f9-4872-a691-093eb1640fae.json"
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-9031b7d0-65f9-4872-a691-093eb1640fae.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-9031b7d0-65f9-4872-a691-093eb1640fae.json",
+          "hash": "f9209d4b2e3398133b03c1db1023060fac2c098b5810d071e34949bbbaae1c61"
         },
         {
           "id": "slide-client-3adb833b-086d-4cdb-97c9-08bac6846825",
           "sortOrder": 17,
           "pageLabel": "17",
-          "title": "AI會泡沫化嗎",
-          "subtitle": "",
-          "path": "pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json"
-        },
-        {
-          "id": "slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d",
-          "sortOrder": 18,
-          "pageLabel": "18",
           "title": "新的簡報頁",
           "subtitle": "",
-          "path": "pages/slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d.json",
-          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-cb1c9dc2-dffd-47f3-b86e-49ea8f7a6d5d.json"
+          "updatedAt": "2026-08-25T14:54:16.521Z",
+          "path": "pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json",
+          "rawUrl": "https://raw.githubusercontent.com/ublvbmt/slide_read_public/main/pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json",
+          "publicUrl": "https://ublvbmt.github.io/slide_read_public/pages/slide-client-3adb833b-086d-4cdb-97c9-08bac6846825.json",
+          "hash": "4cdd8be959887c5f928a3c0f42498ee345b3b1b8ddc065d48b530f31b37f4b2c"
         }
       ]
     }
