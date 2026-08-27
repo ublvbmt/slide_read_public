@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:32:08.228Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -13,7 +13,9 @@
     "pageLabel": "4",
     "title": "AI賺錢也燒錢",
     "subtitle": "全球資本大量投入，量變帶來質變",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T14:24:54.979Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "5",
       "path": "pages/slide-client-1697887a-3770-435d-8cf3-3216aaf2988d.json"
     }
-  }
+  },
+  "contentHash": "39a249fce063cb8305f9c8257e899c014ea2051c9c863706aebd59b3c7e7eb09"
 }
