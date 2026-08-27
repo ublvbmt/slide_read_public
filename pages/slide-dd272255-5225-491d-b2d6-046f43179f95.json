@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:48.942Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "14",
     "title": "測試一下你的數位直覺",
     "subtitle": "請拿起你的手機",
-    "body": ""
+    "body": "",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "15",
       "path": "pages/slide-96d08392-7532-42e0-9bbb-85cdd173e08d.json"
     }
-  }
+  },
+  "contentHash": "55a6184279cd51ed0e3bf5a97e33a3e9122e241e8bbc1d4a5d5829d994da7737"
 }
