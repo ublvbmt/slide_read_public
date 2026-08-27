@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:56.702Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "21",
     "title": "數發部如何推動AI世代智慧政府",
     "subtitle": "五層蛋糕",
-    "body": "由下往上\n厚植政府智慧化應用基礎環境\n\n完備智慧化應用所需資料與模型\n\n建構智慧化行政服務\n\n發展智慧化為民服務\n\n打造數位平權政府智慧服務"
+    "body": "由下往上\n厚植政府智慧化應用基礎環境\n\n完備智慧化應用所需資料與模型\n\n建構智慧化行政服務\n\n發展智慧化為民服務\n\n打造數位平權政府智慧服務",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "22",
       "path": "pages/slide-827d05eb-e002-43ea-91e8-6837590fb13a.json"
     }
-  }
+  },
+  "contentHash": "2f3c71fc5fa319fb448af68532073a2665a54f536bf48b8219f5229ad47cf59b"
 }
