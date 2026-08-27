@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2026-08-26T16:31:59.940Z",
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-08-27T15:37:02.035Z",
   "topic": {
     "id": "topic-c998cd0b-0d96-430e-8d2f-2b50d9133e02",
     "name": "智慧政府與數位治理（副本）",
@@ -13,7 +13,9 @@
     "pageLabel": "24",
     "title": "我會如何用AI",
     "subtitle": "Case3:一鍵完成文稿",
-    "body": "情境:當你既有的業務資料需要填報\n功能:自動抓取雲端硬資料，依照範例格式生成"
+    "body": "情境:當你既有的業務資料需要填報\n功能:自動抓取雲端硬資料，依照範例格式生成",
+    "createdAt": "2026-08-23T11:33:11.264Z",
+    "updatedAt": "2026-08-25T14:54:16.521Z"
   },
   "navigation": {
     "previous": {
@@ -28,5 +30,6 @@
       "pageLabel": "25",
       "path": "pages/slide-189c37e3-9dde-4ef2-af4e-ab598e603499.json"
     }
-  }
+  },
+  "contentHash": "51fac8d3a90275ca862139ba1dece769514437befb77b69b2fd8103f087aa055"
 }
