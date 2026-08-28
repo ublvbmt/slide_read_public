@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.1",
-  "generatedAt": "2026-08-28T10:10:55.271Z",
-  "datasetHash": "31789686e17b7ca28e6d63e6a5f3206705df9d0821e12c43b6630622cec63693",
+  "generatedAt": "2026-08-28T10:16:36.368Z",
+  "datasetHash": "2e2dc4ed1b1d32f4e051137ec19c95e7202d80a520ad8d114a1a2276d2d797f7",
   "topicCount": 3,
   "slideCount": 78,
   "topics": [
@@ -721,7 +721,7 @@
           "subtitle": "",
           "body": "1.切割Token (詞元)\n2.Token 編碼 (向量)\n3.輸入運算(參數)\n4.逐字輸出(機率)\n上兆個參數，上萬個向量-->海量的運算需求",
           "createdAt": "2026-08-23T12:46:52.502Z",
-          "updatedAt": "2026-08-28T10:10:28.595Z"
+          "updatedAt": "2026-08-28T10:15:37.593Z"
         },
         {
           "id": "slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83",
@@ -776,7 +776,7 @@
           "subtitle": "",
           "body": "機器人也瘋狂",
           "createdAt": "2026-08-23T14:30:39.604Z",
-          "updatedAt": "2026-08-28T10:10:29.832Z"
+          "updatedAt": "2026-08-28T10:15:37.960Z"
         },
         {
           "id": "slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43",
@@ -787,7 +787,7 @@
           "subtitle": "",
           "body": "自駕車放手一搏",
           "createdAt": "2026-08-23T14:30:48.563Z",
-          "updatedAt": "2026-08-28T10:10:31.280Z"
+          "updatedAt": "2026-08-28T10:15:38.315Z"
         },
         {
           "id": "slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5",
@@ -798,7 +798,7 @@
           "subtitle": "",
           "body": "誰是誰的主人",
           "createdAt": "2026-08-23T14:31:16.371Z",
-          "updatedAt": "2026-08-28T10:10:31.665Z"
+          "updatedAt": "2026-08-28T10:15:39.373Z"
         },
         {
           "id": "slide-client-8326a442-c93a-4741-90ef-2e603efd52cf",
@@ -809,7 +809,7 @@
           "subtitle": "",
           "body": "AI的倫理議題  結婚與傷亡",
           "createdAt": "2026-08-23T14:31:28.971Z",
-          "updatedAt": "2026-08-28T10:10:32.187Z"
+          "updatedAt": "2026-08-28T10:15:39.880Z"
         },
         {
           "id": "slide-client-54698a56-2d37-407e-ab08-8a188bd7c651",
@@ -820,7 +820,7 @@
           "subtitle": "AI的新境界",
           "body": "腦機合作   智慧眼鏡",
           "createdAt": "2026-08-23T14:31:27.195Z",
-          "updatedAt": "2026-08-28T10:10:32.558Z"
+          "updatedAt": "2026-08-28T10:15:40.259Z"
         },
         {
           "id": "slide-client-1d32dcae-8a4b-4c69-8a1d-31b950e0a6cf",
@@ -853,7 +853,7 @@
           "subtitle": "只有目標 缺乏思考",
           "body": "AI收到指令造迴紋針-->掌管工廠、高效生產-->奪取電力、獲得資源-->滅絕人類、避免競爭-->移居火星",
           "createdAt": "2026-08-23T14:50:41.468Z",
-          "updatedAt": "2026-08-28T10:10:32.870Z"
+          "updatedAt": "2026-08-28T10:15:40.612Z"
         },
         {
           "id": "slide-client-ed6cd71d-8321-484c-86e2-bfee7ba1c5c3",
