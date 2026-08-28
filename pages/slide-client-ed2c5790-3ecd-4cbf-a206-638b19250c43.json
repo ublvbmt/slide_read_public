@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-28T09:25:03.482Z",
+  "generatedAt": "2026-08-28T09:29:54.590Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "",
     "body": "自駕車放手一搏",
     "createdAt": "2026-08-23T14:30:48.563Z",
-    "updatedAt": "2026-08-28T09:24:24.990Z"
+    "updatedAt": "2026-08-28T09:29:32.529Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-f2dde255-ef58-450f-9b54-2153bb158ec5.json"
     }
   },
-  "contentHash": "dbf51c5b22a2737d6ebe61ffabc57c8dab15b6a3d157931fdbf5800ecd040a3c"
+  "contentHash": "11853d01773add970a60f16c7cb771eddd4bda3e43076e7a22d5b9a41c7925b0"
 }
