@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-28T14:57:57.968Z",
+  "generatedAt": "2026-08-28T15:02:55.204Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "",
     "body": "1.切割Token (詞元)\n2.Token 編碼 (向量)\n3.輸入運算(參數)\n4.逐字輸出(機率)\n上兆個參數，上萬個向量-->海量的運算需求",
     "createdAt": "2026-08-23T12:46:52.502Z",
-    "updatedAt": "2026-08-28T14:57:10.245Z"
+    "updatedAt": "2026-08-28T15:02:18.273Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-0cb6ac45-d8d2-478d-b49f-c1ee92756c83.json"
     }
   },
-  "contentHash": "dc1bc33b23c88e7228663ca009236aee450861a8908f5ae430e8b2b513c48834"
+  "contentHash": "147073a33d9a16dc933536d3acd0346c96d4734e17ee10eda6045e00e08ddd65"
 }
