@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "generatedAt": "2026-08-28T12:03:59.585Z",
+  "generatedAt": "2026-08-28T12:09:01.734Z",
   "topic": {
     "id": "topic-client-c58fff5e-3a8c-4830-9602-ba79863eb728",
     "name": "AI原理趨勢與創新應用",
@@ -15,7 +15,7 @@
     "subtitle": "",
     "body": "機器人也瘋狂",
     "createdAt": "2026-08-23T14:30:39.604Z",
-    "updatedAt": "2026-08-28T12:03:01.856Z"
+    "updatedAt": "2026-08-28T12:08:06.103Z"
   },
   "navigation": {
     "previous": {
@@ -31,5 +31,5 @@
       "path": "pages/slide-client-ed2c5790-3ecd-4cbf-a206-638b19250c43.json"
     }
   },
-  "contentHash": "fdde103d6ed7505365c00ddd24d9b58d12bc660e6077e4dd55bdf918f542543d"
+  "contentHash": "b0e57f7462a4782df64f8f02fccb2684a6cf439f676093661f5b1302c36a9ff9"
 }
